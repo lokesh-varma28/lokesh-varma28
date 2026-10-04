@@ -14,17 +14,13 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=lokesh-varma28&label=Profile%20Views&color=0B2545&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/lokesh-varma28?label=Followers&style=for-the-badge&color=D4A017&labelColor=0B2545" alt="Followers" />
-<img src="https://img.shields.io/github/stars/lokesh-varma28?label=Stars&style=for-the-badge&color=D4A017&labelColor=0B2545" alt="Stars" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" alt="divider" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" alt="rocket" /> About Me
-
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=94A3B8&vCenter=true&width=260&height=40&lines=%24+whoami;lokesh-varma28+%7C+developer" alt="terminal" />
 
 - 🚀 MERN Stack Developer who enjoys turning ideas into clean, responsive web apps
 - 🌱 Currently learning and building full-stack projects with React, Node.js and Django REST Framework
@@ -88,8 +84,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&hide_border=true&bg_color=0B2545&title_color=D4A017&icon_color=D4A017&text_color=E2E8F0" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&hide_border=true&bg_color=0B2545&title_color=D4A017&text_color=E2E8F0" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&hide_border=true&bg_color=0B2545&title_color=D4A017&text_color=E2E8F0" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=lokesh-varma28&theme=tokyonight&hide_border=true&background=0B2545&ring=D4A017&fire=D4A017&currStreakLabel=D4A017" alt="GitHub streak" />
 
@@ -107,24 +102,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" alt="divider" />
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-varma28&bg_color=0B2545&color=D4A017&line=D4A017&point=FFFFFF&area=true&area_color=D4A017&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" alt="divider" />
-
-## 💡 Quote of the Moment
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=D4A017&bg_color=0B2545&border_color=0B2545" alt="Random dev quote" />
-
-</div>
 
 ## 📫 Let's Connect
 
