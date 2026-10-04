@@ -1,211 +1,417 @@
 <!-- ========================================================= -->
 
-<!--                    LOKESH VARMA — README                  -->
+<!--                    LOKESH VARMA                           -->
+
+<!--              PREMIUM GITHUB PROFILE README                -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:13315C,100:D4A017&height=220&section=header&text=Lokesh%20Varma&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Django%20REST&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Lokesh Varma"/>
+<!-- HERO -->
 
-### 👋 Hi, I'm Lokesh Varma
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D4A017&center=true&vCenter=true&width=750&height=45&lines=Building+modern+full-stack+web+applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Django+REST+Framework+%7C+Python;Clean+UI+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-world+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,35:0B2545,70:13315C,100:D4A017&height=260&section=header&text=LOKESH%20VARMA&fontSize=62&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20DJANGO%20REST&descSize=19&descAlignY=57&animation=twinkling" width="100%" alt="Lokesh Varma"/>
 
 <br/>
 
+<!-- TYPING -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=D4A017&center=true&vCenter=true&width=850&height=55&lines=Building+Modern+Full-Stack+Applications;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Python+%E2%80%A2+Django+REST+Framework+%E2%80%A2+PostgreSQL;Clean+UI+%E2%80%A2+REST+APIs+%E2%80%A2+Responsive+Design;From+Idea+%E2%86%92+Code+%E2%86%92+Deployment;Always+Learning.+Always+Building.+Always+Shipping." alt="Typing Animation"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE BADGES -->
+
 <a href="https://github.com/lokesh-varma28">
-<img src="https://img.shields.io/github/followers/lokesh-varma28?label=Followers&style=for-the-badge&color=D4A017&labelColor=0B2545"/>
+<img src="https://img.shields.io/github/followers/lokesh-varma28?style=for-the-badge&logo=github&label=Followers&color=D4A017&labelColor=0B2545"/>
 </a>
 
 <a href="https://github.com/lokesh-varma28?tab=repositories">
-<img src="https://img.shields.io/github/stars/lokesh-varma28?label=Stars&style=for-the-badge&color=D4A017&labelColor=0B2545"/>
+<img src="https://img.shields.io/badge/Repositories-0B2545?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-one-gold-42.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=vercel&logoColor=0B2545"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=lokesh-varma28&style=for-the-badge&color=D4A017&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!-- ABOUT -->
+
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28"/> Hey, I'm Lokesh
+
+<div align="center">
+
+### `Full-Stack Developer`
+
+**I build clean, responsive and production-ready web applications.**
+
+</div>
+
+<br/>
+
+I'm a **Full-Stack Developer** focused on building modern web applications with
+strong frontend experiences, REST APIs and practical backend systems.
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   💻  Full-Stack Web Development                         │
+│   ⚛️  React & Modern Frontend                            │
+│   🟢  Node.js • Express • MongoDB                        │
+│   🐍  Python • Django REST Framework                     │
+│   🔌  REST API Development                               │
+│   🎨  Responsive UI / UX                                 │
+│   ☁️  Deployment & Production Workflows                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+### ⚡ A little more about me
+
+* 🚀 Building real-world full-stack projects
+* ⚛️ Working with **React, Vite and modern frontend technologies**
+* 🟢 Developing backend applications using **Node.js & Express**
+* 🐍 Building REST APIs with **Python & Django REST Framework**
+* 🗄️ Working with **MongoDB & PostgreSQL**
+* 🎨 Interested in clean, premium and responsive UI/UX
+* 🔌 Comfortable working with REST APIs and third-party integrations
+* ☁️ Learning production deployment and cloud workflows
+* 🤝 Open to collaborating on meaningful web projects
+* 📍 Andhra Pradesh, India
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!-- CURRENT FOCUS -->
+
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="28"/> Current Focus
+
+<div align="center">
+
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=D4A017&center=true&vCenter=true&width=700&height=40&lines=Building+Full-Stack+Projects;Improving+React+Architecture;Developing+REST+APIs;Learning+Production+Deployment;Writing+Cleaner+%26+Scalable+Code" alt="Current Focus"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<div align="center">
 
-I'm a **Full-Stack Developer** focused on building modern, responsive and practical web applications.
+|  🚀 Development |  🎨 Frontend  |  🔌 Backend | ☁️ Production |
+| :-------------: | :-----------: | :---------: | :-----------: |
+| Full-Stack Apps |     React     | Django REST |     Vercel    |
+|  Real Projects  |  Tailwind CSS |   Node.js   |     Render    |
+| API Integration | Responsive UI |   Express   |     GitHub    |
 
-* 💻 Building applications with **React, Node.js, Express & MongoDB**
-* 🐍 Working with **Python & Django REST Framework**
-* 🎨 Interested in clean UI/UX and responsive web experiences
-* 🔌 Building and integrating **REST APIs**
-* 🚀 Deploying projects using modern cloud platforms
-* 🌱 Continuously improving my full-stack development skills
-* 🤝 Open to collaborating on interesting web projects
-* 📍 Andhra Pradesh, India
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ========================================================= -->
 
-### Frontend
+<!-- TECH STACK -->
 
-<p>
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28"/> Tech Stack
+
+<div align="center">
+
+### `Frontend`
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" />
-</p>
 
-### Backend
+<br/><br/>
 
-<p>
+### `Backend`
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" />
-</p>
 
-### Database
+<br/><br/>
 
-<p>
+### `Database`
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
-</p>
 
-### Tools & Deployment
+<br/><br/>
 
-<p>
+### `Tools • APIs • Deployment`
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render&theme=dark" />
-</p>
 
----
+</div>
 
-## 💼 Featured Projects
+<br/>
+
+<!-- ========================================================= -->
+
+<!-- GITHUB ACTIVITY -->
+
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="28"/> GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B2545&title_color=D4A017&icon_color=D4A017&text_color=E2E8F0&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&hide_border=true&langs_count=8&bg_color=0B2545&title_color=D4A017&text_color=E2E8F0" height="180" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lokesh-varma28&theme=tokyonight&hide_border=true&background=0B2545&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!-- PROJECTS -->
+
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28"/> Featured Projects
+
+<br/>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 👓 Dilip Optics Grand
+<div align="center">
 
-A modern responsive website for an optical showroom in **Rajahmundry**, designed to provide a professional digital presence with product browsing and customer enquiry features.
+## 👓 Dilip Optics Grand
 
-**Highlights**
+<img src="https://img.shields.io/badge/PROJECT-OPTICAL%20WEBSITE-D4A017?style=for-the-badge&labelColor=0B2545"/>
 
-* 📱 Responsive UI
+</div>
+
+<br/>
+
+A premium responsive website created for an **optical showroom in Rajahmundry**, focused on professional branding, product presentation and customer enquiries.
+
+### ✨ Features
+
 * 👓 Product catalogue
+* 📱 Fully responsive design
 * 💬 WhatsApp enquiry
 * 📅 Appointment request
-* ⚡ Fast Vite-powered frontend
+* 🎨 Premium optical UI
+* ⚡ Fast Vite frontend
+* 🚀 Vercel deployment
 
-**Tech**
+### 🧩 Built With
 
 `React` `Vite` `Tailwind CSS`
 
 <br/>
 
+<div align="center">
+
 <a href="https://github.com/lokesh-varma28/dilip-opticals-website">
-<img src="https://img.shields.io/badge/View_Code-0B2545?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-0B2545?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://dilip-opticals-website.vercel.app">
 <img src="https://img.shields.io/badge/Live_Demo-D4A017?style=for-the-badge&logo=vercel&logoColor=0B2545"/>
 </a>
 
+</div>
+
 </td>
 
 <td width="50%" valign="top">
 
-### 🛒 ApexStore
+<div align="center">
 
-A full-stack e-commerce application built with a **React frontend** and **Django REST Framework backend**, featuring API-driven product and category management.
+## 🛒 ApexStore
 
-**Highlights**
+<img src="https://img.shields.io/badge/FULL--STACK-ECOMMERCE-D4A017?style=for-the-badge&labelColor=0B2545"/>
 
-* 🛍️ Product catalogue
+</div>
+
+<br/>
+
+A full-stack e-commerce application built with **React + Django REST Framework**, designed around API-driven product, category and commerce workflows.
+
+### ✨ Features
+
+* 🛍️ Product management
+* 🗂️ Category management
 * 🔌 REST API architecture
-* 🔐 Authentication-ready backend
-* 💳 Payment integration
-* ☁️ Cloud deployment
-* 🗄️ Database-backed application
+* 🔐 Authentication workflow
+* 💳 Razorpay integration
+* ☁️ Cloudinary integration
+* 🗄️ Database integration
+* 🚀 Frontend + backend deployment
 
-**Tech**
+### 🧩 Built With
 
 `React` `Python` `Django REST Framework` `PostgreSQL`
 
 <br/>
 
+<div align="center">
+
 <a href="https://github.com/lokesh-varma28/Full-stack-Ecommerce-Drf-react">
-<img src="https://img.shields.io/badge/View_Code-0B2545?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-0B2545?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+<!-- ========================================================= -->
+
+<!-- DEVELOPMENT JOURNEY -->
+
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="28"/> Development Journey
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&hide_border=true&bg_color=0B2545&title_color=D4A017&icon_color=D4A017&text_color=E2E8F0&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&hide_border=true&bg_color=0B2545&title_color=D4A017&text_color=E2E8F0" alt="Top Languages"/>
+```text
+     IDEA
+      │
+      ▼
+   UI / UX
+      │
+      ▼
+  FRONTEND
+      │
+      ▼
+    API
+      │
+      ▼
+   BACKEND
+      │
+      ▼
+  DATABASE
+      │
+      ▼
+  DEPLOYMENT
+      │
+      ▼
+   🚀 LIVE
+```
 
 </div>
 
 <br/>
 
+> **My goal:** Build applications that don't just work — they look professional, solve real problems and are ready to ship.
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!-- CONTRIBUTION SNAKE -->
+
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="28"/> Contribution Activity
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lokesh-varma28&theme=tokyonight&hide_border=true&background=0B2545&ring=D4A017&fire=D4A017&currStreakLabel=D4A017" alt="GitHub Streak"/>
+<!-- Generated automatically by GitHub Actions -->
+
+<img src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Activity
+<!-- ========================================================= -->
 
-<div align="center">
+<!-- CONNECT -->
 
-<img src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
+<!-- ========================================================= -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2545,100:D4A017&height=3" width="100%" />
 
----
-
-## 🎯 What I'm Currently Focused On
-
-```text
-▸ Full-Stack Web Development
-▸ React & Modern Frontend Architecture
-▸ REST API Development
-▸ Django REST Framework
-▸ Database Design & Integration
-▸ Deployment & Production Workflows
-▸ Clean UI/UX
-```
-
----
-
-## 🤝 Let's Connect
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="28"/> Let's Connect
 
 <div align="center">
+
+### Have an idea? Let's build it. 🚀
+
+<br/>
 
 <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:lokeshvarmakshatriya@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://my-portfolio-one-gold-42.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0B2545?style=for-the-badge&logo=vercel&logoColor=D4A017"/>
+<img src="https://img.shields.io/badge/Portfolio-0B2545?style=for-the-badge&logo=vercel&logoColor=D4A017" alt="Portfolio"/>
 </a>
+
+<a href="https://github.com/lokesh-varma28">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting+my+profile!;Keep+Building.+Keep+Learning.+Keep+Shipping+%F0%9F%9A%80" alt="Footer Typing"/>
 
 </div>
 
 <br/>
 
+<!-- ========================================================= -->
+
+<!-- FOOTER -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-### 💡 "Build it. Improve it. Ship it."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A017,50:13315C,100:0B2545&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A017,40:13315C,75:0B2545,100:050B18&height=150&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
