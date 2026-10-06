@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0B2545,100:D4A017&height=3" width="100%" alt="Header Divider" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,45:0B2545,85:13315C,100:D4A017&height=200&section=header&text=LOKESH%20VARMA&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20MERN%20%7C%20PYTHON%20%7C%20REACT%20NATIVE&descSize=16&descColor=D4A017&descAlignY=70&animation=fadeIn" width="100%" alt="Lokesh Varma Header" />
 
 <br/>
 
-# LOKESH VARMA
-### FULL-STACK DEVELOPER
-`MERN` &nbsp;•&nbsp; `PYTHON` &nbsp;•&nbsp; `REACT NATIVE` &nbsp;•&nbsp; `REST APIs`
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1200&color=D4A017&center=true&vCenter=true&width=640&height=42&lines=Building+modern+full-stack+web+%26+mobile+apps;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Python+%E2%80%A2+Django+REST+Framework+%E2%80%A2+PostgreSQL;React+Native+%E2%80%A2+Cross-Platform+Mobile+Apps;AI-Assisted+Development+%E2%80%A2+Playwright+Automation;From+Concept+%E2%86%92+Architecture+%E2%86%92+Production+Deployment" alt="Typing Animation" />
+</a>
 
 <br/>
 
@@ -31,93 +31,150 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
-## 01. About
+## 01. Engineering Pillars
 
-I am a full-stack developer early in my career, building practical applications across **web, APIs, and mobile**. My development workflow connects interface design, RESTful API architecture, database schema modeling, and production deployment.
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/01-WEB_DEV-D4A017?style=flat-square&labelColor=050B18" alt="Web Dev" /><br/><br/>
+      <b>Frontend & SPAs</b><br/>
+      <sub>React · Vite · Tailwind CSS</sub><br/>
+      <sub>Component Design · State Flows</sub>
+      <br/><br/>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/02-BACKEND-D4A017?style=flat-square&labelColor=050B18" alt="Backend" /><br/><br/>
+      <b>APIs & Scalability</b><br/>
+      <sub>Node.js · Express · Django</sub><br/>
+      <sub>RESTful APIs · PostgreSQL · MongoDB</sub>
+      <br/><br/>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/03-MOBILE-D4A017?style=flat-square&labelColor=050B18" alt="Mobile" /><br/><br/>
+      <b>Cross-Platform</b><br/>
+      <sub>React Native · Mobile UI</sub><br/>
+      <sub>Shared REST & Auth Contracts</sub>
+      <br/><br/>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/04-AUTOMATION-D4A017?style=flat-square&labelColor=050B18" alt="Automation" /><br/><br/>
+      <b>AI & Testing Workflows</b><br/>
+      <sub>Playwright · Gemini API</sub><br/>
+      <sub>Cursor · Kiro · Antigravity</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-I specialize in **React** and **Tailwind CSS** on the frontend, **Node.js / Express** and **Python / Django REST Framework** on the backend, and **React Native** for cross-platform mobile applications.
+> Full-stack developer engineering practical web applications, cross-platform mobile apps, and secure RESTful backends. My cycle connects UI design, server-side data models, and cloud deployments to solve real business requirements.
 
-Rather than building isolated mockups, I focus on shipping software that solves concrete operational requirements—including multi-tier commerce ecosystems, customer support ticketing with server-side RBAC, real commercial business platforms, and AI-assisted productivity tools.
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
 ## 02. Current Experience
 
-### Full-Stack Developer Intern
-**Godavari Wave Technologies** · *Rajahmundry, Andhra Pradesh, India*  
-`Duration: 3 Months` · `Status: Currently Working` · `Focus: Full-Stack Web & API Engineering`
+<table width="100%">
+  <tr>
+    <td>
+      <b>FULL-STACK DEVELOPER INTERN</b> &nbsp;|&nbsp; <b>Godavari Wave Technologies</b><br/>
+      <sub>📍 Rajahmundry, Andhra Pradesh, India &nbsp;•&nbsp; ⏱️ 3 Months &nbsp;•&nbsp; 🟢 Currently Working</sub>
+      <br/><br/>
+      • <b>Frontend Development:</b> Engineering modular, responsive web features in React with clean component architectures.<br/>
+      • <b>API & Backend Services:</b> Developing and testing RESTful endpoints in Node.js/Express, managing database interactions, and securing API routes.<br/>
+      • <b>Full-Stack Integration:</b> Connecting client-side views with server logic, state management, and third-party integrations.<br/>
+      • <b>Deployment Workflows:</b> Practicing Git version control, validating API contracts with Postman, and deploying through cloud environments (Vercel, Render).
+    </td>
+  </tr>
+</table>
 
-- **Full-Stack Feature Engineering:** Developing modular, responsive web features in React and connecting them with backend RESTful APIs.
-- **Backend Architecture & APIs:** Building and testing REST endpoints, structuring database models, and maintaining authentication-protected routes.
-- **Data Flow & Third-Party Services:** Integrating external services and ensuring secure client-server communication across application states.
-- **Deployment & Engineering Workflows:** Maintaining version control with Git/GitHub, performing API testing with Postman, and managing continuous deployments via Vercel and cloud platforms.
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
 ## 03. Core Capabilities: Web + Mobile Architecture
 
-I engineer applications designed to scale across browsers and mobile devices through shared API contracts:
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PLATFORM-WEB%20APPLICATIONS-0B2545?style=flat-square&labelColor=D4A017&color=050B18" alt="Web Applications"/><br/><br/>
+      • <b>Modern Frontend:</b> Fast, component-driven user interfaces built with React, Vite, and Tailwind CSS.<br/>
+      • <b>State & UX:</b> Responsive client layouts, secure local token storage, and clean API consumer hooks.<br/>
+      • <b>Design Standards:</b> Semantic markup, accessibility, and high Lighthouse performance.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/MOBILE-REACT%20NATIVE-0B2545?style=flat-square&labelColor=D4A017&color=050B18" alt="React Native"/><br/><br/>
+      • <b>Cross-Platform:</b> Native iOS & Android applications built with React Native alongside the web codebase.<br/>
+      • <b>Unified Backend:</b> Consuming the same REST API contracts and authentication flows across web and mobile.<br/>
+      • <b>Mobile UX:</b> Native gestures, clean tab/stack navigation, and offline-resilient state patterns.
+    </td>
+  </tr>
+</table>
 
-- **Web Applications:** Fast, accessible, component-driven user interfaces built with **React**, **Vite**, and **Tailwind CSS**.
-- **Cross-Platform Mobile:** Native mobile applications built with **React Native**, applying consistent UI design patterns, mobile navigation, and shared API authentication with the web stack.
-- **Backend & REST APIs:** Structured, documented server-side systems built with **Node.js / Express** or **Django REST Framework**, enforcing authentication, data validation, and rate limiting.
-- **AI-Assisted Development & Automation:** Leveraging modern engineering tools (**Playwright**, **Cursor**, **Kiro**, **Antigravity**) for accelerated implementation and test coverage, plus integrating LLM APIs (e.g., **Google Gemini API**) into practical product interfaces.
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
 ## 04. Featured Projects
 
-### 01 · MERN Multi-Tier E-Commerce Platform *(Flagship)*
+### 01 · MERN Multi-Tier E-Commerce Platform
+<img src="https://img.shields.io/badge/FLAGSHIP-FULL--STACK%20ECOSYSTEM-D4A017?style=for-the-badge&labelColor=050B18" alt="Flagship Project"/>
+
 > **Complete commerce architecture featuring independent customer storefront, dedicated seller portal, and an Express REST API.**
 
 <p>
-<a href="https://github.com/lokesh-varma28/Mern-Full-Stack-Ecommerce"><img src="https://img.shields.io/badge/Repository-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
-<a href="https://mern-full-stack-ecommerce.vercel.app"><img src="https://img.shields.io/badge/Storefront-D4A017?style=flat-square&logo=vercel&logoColor=0B2545" alt="Store"/></a>
+<a href="https://github.com/lokesh-varma28/Mern-Full-Stack-Ecommerce"><img src="https://img.shields.io/badge/Source_Code-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
+<a href="https://mern-full-stack-ecommerce.vercel.app"><img src="https://img.shields.io/badge/Live_Storefront-D4A017?style=flat-square&logo=vercel&logoColor=0B2545" alt="Store"/></a>
 <a href="https://mern-full-stack-ecommerce-jhtr.vercel.app"><img src="https://img.shields.io/badge/Seller_Portal-0B2545?style=flat-square&logo=vercel&logoColor=D4A017" alt="Seller"/></a>
-<a href="https://mern-full-stack-ecommerce-cwb9.onrender.com"><img src="https://img.shields.io/badge/Backend_API-0B2545?style=flat-square&logo=render&logoColor=D4A017" alt="API"/></a>
+<a href="https://mern-full-stack-ecommerce-cwb9.onrender.com"><img src="https://img.shields.io/badge/API_Endpoint-0B2545?style=flat-square&logo=render&logoColor=D4A017" alt="API"/></a>
 </p>
 
-- **Problem Solved:** Standard single-store templates fail when buyers, independent merchants, and admins require distinct dashboards, access levels, and order workflows.
+- **Problem Solved:** Traditional single-store templates fail when buyers, independent merchants, and admins require distinct dashboards, access controls, and order workflows.
 - **Key Features Built:**
   - Dual authentication: Email/password JWT sessions and Google OAuth (`google-auth-library`).
-  - Shopping cart and wishlist workflows with server-authoritative pricing and inventory validation.
+  - Server-authoritative cart, wishlist, and atomic stock calculation.
   - Razorpay payment gateway integration with status verification and order confirmation.
-  - Automated PDF invoice generation (`pdfkit`) and cloud media management via Cloudinary.
-  - Production resilience: Redis-backed API rate limiting, Helmet security headers, and structured logging with Winston.
+  - Automated PDF invoice generation (`pdfkit`) and Cloudinary cloud media storage.
+  - Production resilience: Redis-backed API rate limiting, Helmet security headers, and structured Winston logging.
 - **Technologies:** `MongoDB` · `Express.js` · `React` · `Node.js` · `Redis` · `Razorpay` · `Cloudinary` · `PDFKit`
 
 ---
 
 ### 02 · ApexStore — React + Django REST Framework
+<img src="https://img.shields.io/badge/ENTERPRISE-PYTHON%20%7C%20DRF-0B2545?style=flat-square&labelColor=D4A017&color=050B18" alt="DRF"/>
+
 > **API-driven e-commerce platform pairing a type-safe TypeScript React frontend with a PostgreSQL-backed Django REST API.**
 
 <p>
-<a href="https://github.com/lokesh-varma28/Full-Stack-DRF-React"><img src="https://img.shields.io/badge/Repository-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
+<a href="https://github.com/lokesh-varma28/Full-Stack-DRF-React"><img src="https://img.shields.io/badge/Source_Code-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
 <a href="https://apexstore-frontend.vercel.app"><img src="https://img.shields.io/badge/Live_Store-D4A017?style=flat-square&logo=vercel&logoColor=0B2545" alt="Live Demo"/></a>
 </p>
 
-- **Problem Solved:** E-commerce systems handling structured inventories and customer addresses require relational integrity and robust Python backend services.
 - **Key Features Built:**
   - Django REST Framework backend with relational schema modeling on PostgreSQL for products, categories, orders, and addresses.
   - Secure authentication powered by Django SimpleJWT with token refresh and user session management.
   - Modern frontend built with React, TypeScript, and Vite for compile-time type safety.
   - Integrated Razorpay payment transactions and Cloudinary media storage.
-  - Customer review models, order tracking, and clean API pagination.
-- **Technologies:** `React` · `TypeScript` · `Python` · `Django REST Framework` · `PostgreSQL` · `SimpleJWT` · `Razorpay` · `Cloudinary`
+- **Technologies:** `React` · `TypeScript` · `Python` · `Django REST Framework` · `PostgreSQL` · `SimpleJWT` · `Razorpay`
 
 ---
 
-### 03 · DeskHub — Customer & Agent Support Ticketing System
+### 03 · DeskHub — Customer & Support Agent Ticketing System
+<img src="https://img.shields.io/badge/ARCHITECTURE-RBAC%20%7C%20TESTING-0B2545?style=flat-square&labelColor=D4A017&color=050B18" alt="DeskHub"/>
+
 > **Full-stack helpdesk platform featuring server-side Role-Based Access Control, end-to-end TypeScript, and automated testing.**
 
 <p>
-<a href="https://github.com/lokesh-varma28/ProStackHub_CustomerAgentSystem"><img src="https://img.shields.io/badge/Repository-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
+<a href="https://github.com/lokesh-varma28/ProStackHub_CustomerAgentSystem"><img src="https://img.shields.io/badge/Source_Code-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
 <a href="https://client-chi-six-93.vercel.app"><img src="https://img.shields.io/badge/Live_Portal-D4A017?style=flat-square&logo=vercel&logoColor=0B2545" alt="Live Demo"/></a>
 </p>
 
-- **Problem Solved:** Support ticketing portals become insecure and unpredictable when role checks only exist in the frontend UI.
 - **Key Features Built:**
   - Server-enforced Role-Based Access Control (RBAC) separating Customer ticket creation from Support Agent resolution queues.
   - Written completely in TypeScript across both client and server for guaranteed contract integrity.
@@ -128,14 +185,15 @@ I engineer applications designed to scale across browsers and mobile devices thr
 ---
 
 ### 04 · Dilip Optics Grand — Commercial Client Platform
+<img src="https://img.shields.io/badge/COMMERCIAL-CLIENT%20SOLUTION-0B2545?style=flat-square&labelColor=D4A017&color=050B18" alt="Dilip Optics"/>
+
 > **High-performance, mobile-first web application engineered for an optical showroom in Rajahmundry.**
 
 <p>
-<a href="https://github.com/lokesh-varma28/dilip-opticals-website"><img src="https://img.shields.io/badge/Repository-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
+<a href="https://github.com/lokesh-varma28/dilip-opticals-website"><img src="https://img.shields.io/badge/Source_Code-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
 <a href="https://dilip-opticals-website.vercel.app"><img src="https://img.shields.io/badge/Live_Website-D4A017?style=flat-square&logo=vercel&logoColor=0B2545" alt="Live Demo"/></a>
 </p>
 
-- **Problem Solved:** A local retail business needed an instant-loading mobile catalog to convert smartphone search traffic into direct store visits and WhatsApp consultations.
 - **Key Features Built:**
   - Ultra-fast mobile-first interface engineered with React 19, Vite 8, and Tailwind CSS 4.
   - Automated asset optimization pipeline using Node.js and **Sharp** to transform eyewear images into lightweight WebP format.
@@ -145,36 +203,76 @@ I engineer applications designed to scale across browsers and mobile devices thr
 
 ---
 
-### 05 · AI Chatbot Assistant — Full-Stack Intelligent Assistant
+### 05 · AI Chatbot Assistant — Contextual LLM Application
+<img src="https://img.shields.io/badge/AI%20INTEGRATION-GEMINI%20API-0B2545?style=flat-square&labelColor=D4A017&color=050B18" alt="AI Chatbot"/>
+
 > **Authenticated conversational assistant with Google Gemini API integration and contextual PDF document parsing.**
 
 <p>
-<a href="https://github.com/lokesh-varma28/ai-chatbot"><img src="https://img.shields.io/badge/Repository-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
+<a href="https://github.com/lokesh-varma28/ai-chatbot"><img src="https://img.shields.io/badge/Source_Code-0B2545?style=flat-square&logo=github&logoColor=D4A017" alt="Repo"/></a>
 <a href="https://ai-chatbot-f3t9.vercel.app"><img src="https://img.shields.io/badge/Live_App-D4A017?style=flat-square&logo=vercel&logoColor=0B2545" alt="Live Demo"/></a>
 </p>
 
-- **Problem Solved:** Most AI demos lack persistent user accounts, document ingestion capabilities, or backend rate controls.
 - **Key Features Built:**
   - Natural conversation interface integrated with Google Gemini API (`@google/genai`).
   - Document intelligence pipeline: PDF parsing via `pdf-parse` and file uploads with Multer for document-grounded interactions.
   - Authenticated user accounts with JWT sessions and persistent multi-thread conversation history stored in MongoDB Atlas.
-  - Production security: API rate limiting (`express-rate-limit`) and HTTP header protection (`helmet`).
+  - Production security: Express rate limiting (`express-rate-limit`) and HTTP header protection (`helmet`).
 - **Technologies:** `React` · `Node.js` · `Express.js` · `MongoDB Atlas` · `Google Gemini API` · `PDF-Parse` · `JWT`
 
----
+<br/>
 
-## 05. Technical Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
-A disciplined technical stack categorized by functional domain and applied experience:
+## 05. AI-Assisted Workflows & Automation
 
-| Domain | Core Technologies | Working Knowledge |
-| :--- | :--- | :--- |
-| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3 | TypeScript, Tailwind CSS |
-| **Backend & APIs** | Node.js, Express.js, MERN Stack, REST APIs, Python, Django REST Framework | PostgreSQL, MongoDB |
-| **Mobile** | React Native *(Cross-Platform iOS & Android)* | Mobile Navigation, Shared REST Client |
-| **Databases** | MongoDB, PostgreSQL | Schema Design, Query Optimization |
-| **Tooling & Cloud** | Git, GitHub, VS Code, Postman, Vercel, Render | Netlify, Cloudflare |
-| **Automation & AI Workflows** | Playwright, Cursor, Kiro, Antigravity | Automated Browser QA, LLM API Integration |
+<table width="100%">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/ENGINEERING%20WORKFLOW-AI%20%26%20AUTOMATION-D4A017?style=flat-square&labelColor=050B18" alt="AI and Automation"/><br/><br/>
+      • <b>End-to-End Automation:</b> Automated browser testing and interaction regression with <b>Playwright</b>.<br/>
+      • <b>Modern Developer Tooling:</b> Leveraging <b>Cursor</b>, <b>Kiro</b>, and <b>Antigravity</b> for accelerated development velocity, type verification, and code refactoring.<br/>
+      • <b>LLM API Integration:</b> Grounding generative models (Google Gemini API) with document ingestion pipelines and validated backend state.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
+
+## 06. Technical Stack
+
+<table width="100%">
+  <tr>
+    <td width="30%"><b>Frontend</b></td>
+    <td><code>React</code> <code>JavaScript (ES6+)</code> <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code></td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td><code>Node.js</code> <code>Express.js</code> <code>Python</code> <code>Django REST Framework</code> <code>REST APIs</code></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><code>React Native</code> <i>(Cross-Platform iOS & Android)</i></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><code>MongoDB</code> <code>PostgreSQL</code></td>
+  </tr>
+  <tr>
+    <td><b>Development Tools</b></td>
+    <td><code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Postman</code></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Deployment</b></td>
+    <td><code>Vercel</code> <code>Render</code> <code>Netlify</code> <code>Cloudflare</code></td>
+  </tr>
+  <tr>
+    <td><b>Automation & AI Workflows</b></td>
+    <td><code>Playwright</code> <code>Cursor</code> <code>Kiro</code> <code>Antigravity</code> <code>Gemini API</code></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -190,19 +288,13 @@ A disciplined technical stack categorized by functional domain and applied exper
 
 </div>
 
-> *Note: AI-assisted tooling and automation frameworks (Cursor, Kiro, Antigravity, Playwright) reflect modern engineering workflows to accelerate delivery, code quality, and testing efficiency—not standalone programming languages or AI engineering titles.*
+> *Note: AI tools and automation frameworks reflect modern engineering practices for speed and testing efficiency—not standalone programming languages or AI engineering claims.*
 
----
+<br/>
 
-## 06. Engineering Philosophy
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
-- **Working Software First:** A deployed, testable application is worth more than theoretical claims. Every project in this portfolio is live, verifiable, and backed by source code.
-- **Server-Authoritative Security:** Keep interfaces responsive and intuitive, but enforce business rules, price calculations, and authorization strictly on the server.
-- **Velocity with Verification:** Use modern developer tooling and AI assistance to move fast, while validating functionality with type safety, schema validation, and automated testing.
-
----
-
-## 07. GitHub Analytics
+## 07. Contribution Activity & Engineering Pulse
 
 <div align="center">
 
@@ -216,7 +308,9 @@ A disciplined technical stack categorized by functional domain and applied exper
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
 ## 08. Education
 
@@ -225,7 +319,9 @@ Andhra University · *Online Degree Program*
 `Expected Graduation: 2029`  
 *Focusing on business fundamentals, commercial workflows, and dedicated software engineering practice.*
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050B18,50:0B2545,100:D4A017&height=4" width="100%" alt="Divider" />
 
 <div align="center">
 
@@ -247,8 +343,8 @@ Andhra University · *Online Degree Program*
 
 [Portfolio](https://my-portfolio-one-gold-42.vercel.app/) · [GitHub](https://github.com/lokesh-varma28) · [LinkedIn](https://www.linkedin.com/in/natra-lokesh-493bb63a2/) · [Email](mailto:lokeshvarmakshatriya@gmail.com)
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A017,50:0B2545,100:050B18&height=3" width="100%" alt="Footer Divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:0B2545,100:D4A017&height=120&section=footer" width="100%" alt="Animated Footer" />
 
 </div>
