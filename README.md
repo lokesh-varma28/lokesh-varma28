@@ -1,198 +1,463 @@
-<div align="center">
+CONTINUE TASK 49 NOW.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0B2545,100:D4A017&height=3" width="100%" alt="" />
+The external asset verification appears to be waiting/stuck.
 
-# LOKESH VARMA
+Do NOT wait indefinitely for the asset verification subtask.
 
-**FULL-STACK DEVELOPER**
+You have already:
+- Read README.md
+- Read .github/snake.yml
+- Inspected my GitHub profile
+- Inspected my repositories
+- Inspected the selected project repositories
+- Checked git status / branches / remote
+- Started external asset verification
 
-`MERN` · `PYTHON` · `REACT NATIVE`
+Now proceed with the actual implementation.
 
-Building modern web, mobile and API-driven applications  
-with a focus on clean UI, practical backends and real-world solutions.
+==================================================
+TASK
+==================================================
 
-<br/>
+Act as a Senior UI/UX Engineer + Senior Developer
+Branding Designer + GitHub Profile Architect.
 
-<a href="https://github.com/lokesh-varma28"><img src="https://img.shields.io/badge/GitHub-0B2545?style=for-the-badge&logo=github&logoColor=D4A017" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="https://img.shields.io/badge/LinkedIn-0B2545?style=for-the-badge&logo=linkedin&logoColor=D4A017" alt="LinkedIn"/></a>
-<a href="https://my-portfolio-one-gold-42.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=vercel&logoColor=0B2545" alt="Portfolio"/></a>
-<a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="https://img.shields.io/badge/Email-0B2545?style=for-the-badge&logo=gmail&logoColor=D4A017" alt="Email"/></a>
+Redesign my GitHub profile README.md into a premium,
+luxury, recruiter-focused developer profile.
 
-<br/>
+My target audience:
 
-Rajahmundry, Andhra Pradesh, India  
-Full-Stack Developer Intern · Godavari Wave Technologies · Currently working
+1. Internship recruiters
+2. Full-time developer recruiters
+3. Freelance clients
+4. Technical collaborators
+5. Personal branding
 
-</div>
+==================================================
+MY BRAND
+==================================================
 
----
+Name:
+Lokesh Varma
 
-## About
+Headline:
 
-I am a full-stack developer early in my career, building applications across **web, APIs and mobile**.
+FULL-STACK DEVELOPER | MERN | PYTHON | REACT NATIVE
 
-Most of my work sits in the same loop: interface, REST API, database, then deployment. I use **React** for the web, **React Native** for mobile, and **Node.js / Express** or **Python / Django REST Framework** on the backend.
+Positioning:
 
-I learn fastest by shipping — local-business sites, commerce platforms, auth-protected APIs and an AI-assisted chatbot — then tightening the UI and the backend until they are usable.
+Building modern web, mobile, API-driven and
+AI-assisted applications.
 
----
+Current Role:
 
-## Experience
+Full-Stack Developer Intern
+Godavari Wave Technologies
+Currently working
+Duration: 3 months
 
-**Full-Stack Developer Intern**  
-Godavari Wave Technologies  
-Currently working · 3 months · Rajahmundry, Andhra Pradesh
+Education:
 
-Working across the stack on real application development:
+B.Com
+Andhra University — Online Degree
+Expected Graduation: 2029
 
-- Frontend interfaces in React
-- Backend and REST API development
-- Database-backed features and auth-protected flows
-- Deployment workflows on Vercel and Render
+Location:
+
+Rajahmundry, Andhra Pradesh, India
+
+==================================================
+CORE SKILLS
+==================================================
 
----
+Core:
+React
+JavaScript
+Python
+Django REST Framework
+HTML
+CSS
 
-## Featured Projects
+Full Stack:
+MERN
+Node.js
+Express.js
+MongoDB
+PostgreSQL
+REST APIs
 
-### 01 · MERN Ecommerce Platform
+Mobile:
+React Native
 
-Full-stack commerce platform with a customer storefront, a seller dashboard and an Express API. This is the project that best shows how I handle auth, orders, payments and multi-app architecture.
+Working Knowledge:
+TypeScript
+Tailwind CSS
 
-**Problem:** a single store UI is not enough when customers, sellers and admins need different workflows.  
-**What I built:** JWT + Google OAuth, cart and wishlist, Razorpay payments, Cloudinary uploads, invoices, inventory and seller routes, with Redis used in the API layer.
+Tools / Deployment:
+Git
+GitHub
+VS Code
+Postman
+Vercel
+Render
+Netlify
+Cloudflare
 
-`MongoDB` `Express` `React` `Node.js` `JWT` `Razorpay` `Cloudinary`
+Automation / AI-assisted Development:
+Playwright
+Cursor
+Kiro
+Antigravity
 
-[Repository](https://github.com/lokesh-varma28/Mern-Full-Stack-Ecommerce) · [Store](https://mern-full-stack-ecommerce.vercel.app) · [Seller](https://mern-full-stack-ecommerce-jhtr.vercel.app) · [API](https://mern-full-stack-ecommerce-cwb9.onrender.com)
+Do not exaggerate skill levels.
 
----
+==================================================
+DESIGN DIRECTION
+==================================================
 
-### 02 · ApexStore — React + Django REST
+Create a premium luxury technology aesthetic.
 
-API-driven ecommerce app with a TypeScript React frontend and a Django REST backend on PostgreSQL.
+Use:
 
-**Problem:** commerce flows that need a structured REST API, not only a JavaScript backend.  
-**What I built:** products and categories, cart, wishlist, addresses, order/payment flow with Razorpay, Cloudinary product images, and JWT (SimpleJWT) with email OTP models.
+- Deep navy
+- Obsidian
+- Champagne gold
+- Soft white
+- Slate gray
+- Subtle gradients
 
-`React` `TypeScript` `Django REST Framework` `PostgreSQL` `JWT` `Razorpay` `Cloudinary`
+Visual feeling:
 
-[Repository](https://github.com/lokesh-varma28/Full-Stack-DRF-React) · [Live](https://apexstore-frontend.vercel.app)
+Premium developer portfolio
++
+Modern SaaS
++
+Professional engineering profile
 
----
+Avoid:
 
-### 03 · AI Chatbot
+- Excessive emojis
+- Neon colors
+- Gaming style
+- Huge animations
+- Too many badges
+- Too many typing animations
+- Fake statistics
+- Generic AI-generated wording
+- Large unnecessary ASCII blocks
+- Excessive decorative separators
 
-Full-stack assistant using React, Express, MongoDB and the Google Gemini API. Positioned as **AI-assisted product work**, not an AI-engineering specialty.
+The result should look sophisticated and intentional.
 
-**Problem:** a chat UI that still needs accounts, conversation history and a real API.  
-**What I built:** register/login, JWT sessions, conversation CRUD, guest and authenticated chat, rate limiting and a `/api/v1` backend.
+==================================================
+README STRUCTURE
+==================================================
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Gemini API`
+Use this approximate information hierarchy:
 
-[Repository](https://github.com/lokesh-varma28/ai-chatbot) · [Live](https://ai-chatbot-f3t9.vercel.app)
+1. Premium Hero
+2. Short professional introduction
+3. Current internship / experience
+4. What I build
+5. Featured Projects
+6. Technical Stack
+7. Automation / AI-assisted Development
+8. Certifications / achievements if verified
+9. GitHub activity
+10. Education
+11. Contact / Let's Connect
 
----
+Adjust the order if your UX judgment finds a stronger recruiter flow.
 
-### 04 · Dilip Optics Grand
+==================================================
+HERO
+==================================================
 
-Mobile-first website for an optical showroom in Rajahmundry. Built for product discovery and local conversion, not as a generic brochure site.
+Create a strong hero section.
 
-**Problem:** a physical store needs a fast catalogue and one-tap enquiry on phone.  
-**What I built:** category catalogue, quick view, WhatsApp enquiry, appointment request, local SEO schema, WebP image pipeline and Vercel deployment.
+Display:
 
-`React` `Vite` `Tailwind CSS`
+LOKESH VARMA
 
-[Repository](https://github.com/lokesh-varma28/dilip-opticals-website) · [Live](https://dilip-opticals-website.vercel.app)
+FULL-STACK DEVELOPER
+MERN • PYTHON • REACT NATIVE
 
----
+Then a concise statement:
 
-### 05 · DeskHub — Customer & Agent Ticketing
+"Building modern web, mobile and API-driven
+applications with a focus on clean UI,
+scalable backend systems and real-world solutions."
 
-Helpdesk system with Customer and Support Agent roles, JWT auth and server-side access control. TypeScript on both client and API.
+Include clean links for:
 
-**Problem:** tickets are unsafe if role checks only live in the UI.  
-**What I built:** role-based ticketing, JWT authentication, MongoDB persistence, and Jest tests on the server.
+GitHub
+LinkedIn
+Portfolio
+Email
 
-`React` `TypeScript` `Express` `MongoDB` `JWT`
+Do not overload the hero.
 
-[Repository](https://github.com/lokesh-varma28/ProStackHub_CustomerAgentSystem) · [Live](https://client-chi-six-93.vercel.app)
+==================================================
+EXPERIENCE
+==================================================
 
----
+Create a polished section:
 
-## Technical Stack
+### Full-Stack Developer Intern
 
-Grouped by how I actually use them. Core tools first. Working knowledge is labeled as such.
+**Godavari Wave Technologies**
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" />
+Currently working • 3 months
 
-React · JavaScript · HTML · CSS · Tailwind CSS *(working knowledge)* · TypeScript *(working knowledge)*
+Only mention responsibilities that can be supported
+by the information already provided.
 
-**Backend & APIs**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" alt="Backend" />
+Do not invent company achievements.
 
-Node.js · Express.js · REST APIs · Python · Django REST Framework
+==================================================
+PROJECTS
+==================================================
 
-**Data**  
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" alt="Databases" />
+Use the GitHub research you already performed.
 
-MongoDB · PostgreSQL
+Select the strongest 3–5 projects.
 
-**Mobile**
+Potential candidates include:
 
-React Native — cross-platform mobile UI alongside the web stack. No public mobile repository is featured yet; this is an active skill, not a claimed production app.
+- Full-Stack DRF React / Ecommerce
+- AI Chatbot
+- ProStackHub CartCraft
+- ProStackHub Customer Agent System
+- Dilip Opticals
+- Strong mobile application projects if verified
 
-**Tools & deployment**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,cloudflare&theme=dark" alt="Tools" />
+Do NOT blindly use all of them.
 
-Git · GitHub · VS Code · Postman · Vercel · Render · Netlify · Cloudflare
+Choose based on:
 
-**Automation & AI-assisted development**
+- Technical complexity
+- Full-stack capability
+- UI/UX
+- Backend/API work
+- Database
+- AI
+- Mobile
+- Deployment
+- Real-world usefulness
 
-Playwright · Cursor · Kiro · Antigravity
+VERIFY project technologies and features.
 
-These are development workflows and testing tools — not programming languages, and not an AI-engineer title.
+NEVER invent project features.
 
----
+Each project should have:
 
-## How I work
+Project name
+Short description
+Key features
+Technology stack
+GitHub link
+Live demo if available
 
-- Prefer applications that can be opened, used and deployed over a long list of technologies.
-- Keep UI readable, APIs explicit, and auth on the server.
-- Use AI-assisted tooling to move faster, then verify behaviour in code and in the browser.
+Make the strongest project visually prominent.
 
----
+==================================================
+MOBILE DEVELOPMENT
+==================================================
 
-## GitHub
+I build mobile applications using React Native.
 
-<div align="center">
+Make mobile development visible.
 
-<img src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&hide_border=true&hide_rank=true&bg_color=0B2545&title_color=D4A017&icon_color=D4A017&text_color=E2E8F0" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&hide_border=true&langs_count=6&bg_color=0B2545&title_color=D4A017&text_color=E2E8F0" height="165" alt="Top languages"/>
+Do not position me as web-only.
 
-<img src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" width="100%" alt="Contribution activity"/>
+If a strong React Native project exists in my repositories,
+include it in Featured Projects.
 
-</div>
+==================================================
+AI / AUTOMATION
+==================================================
 
----
+Include a small professional section for:
 
-## Education
+Playwright
+AI-assisted development
+Cursor
+Kiro
+Antigravity
 
-**B.Com** — Andhra University, Online Degree  
-Expected graduation: 2029
+Do not claim that these tools make me an AI engineer.
 
----
+Position them as:
 
-<div align="center">
+AI-assisted development & automation workflow.
 
-## Let’s connect
+If an actual AI project exists in my repositories,
+feature it appropriately.
 
-Open to internships, full-time roles, freelance work and collaborations where the brief is to build something useful.
+==================================================
+TECH STACK
+==================================================
 
-[GitHub](https://github.com/lokesh-varma28) · [LinkedIn](https://www.linkedin.com/in/natra-lokesh-493bb63a2/) · [Portfolio](https://my-portfolio-one-gold-42.vercel.app/) · [Email](mailto:lokeshvarmakshatriya@gmail.com)
+Create clean grouped categories:
 
-<br/>
+Frontend
+Backend
+Database
+Mobile
+Tools
+Deployment
+Automation
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A017,50:0B2545,100:050B18&height=3" width="100%" alt="" />
+Use technology icons only where they improve readability.
 
-</div>
+Do not create a giant wall of icons.
+
+==================================================
+GITHUB STATS
+==================================================
+
+Keep GitHub statistics only if they improve the profile.
+
+Possible:
+
+GitHub Stats
+Top Languages
+Contribution Streak
+Contribution Snake
+
+Do not allow statistics to dominate the profile.
+
+Do not fabricate statistics.
+
+If an external service is unreliable, remove it
+instead of keeping a broken image.
+
+==================================================
+ANIMATIONS
+==================================================
+
+Use animation sparingly.
+
+Maximum:
+
+- One subtle hero animation
+- One typing effect if genuinely useful
+
+Do not use multiple competing animations.
+
+Premium means restrained.
+
+==================================================
+WRITING
+==================================================
+
+Use:
+
+Professional
+Human
+Concise
+Technical
+Confident
+Honest
+
+Avoid phrases like:
+
+"coding ninja"
+"rockstar developer"
+"passionate coder"
+"turning coffee into code"
+"revolutionary solutions"
+
+Do not make the README sound AI-generated.
+
+==================================================
+IMPORTANT
+==================================================
+
+Do NOT invent:
+
+- Experience
+- Certifications
+- Awards
+- Project features
+- Technologies
+- User counts
+- Performance numbers
+- Company achievements
+- Client names
+- GitHub statistics
+- Production claims
+
+If information cannot be verified, omit it.
+
+==================================================
+IMPLEMENTATION
+==================================================
+
+Now actually modify:
+
+README.md
+
+Do not only give recommendations.
+
+Preserve useful existing information.
+
+Remove unnecessary/redundant content.
+
+Improve hierarchy, spacing and visual consistency.
+
+Make the final README compatible with GitHub Markdown.
+
+Ensure:
+
+- Images render
+- Links work
+- Markdown is valid
+- Mobile readability is good
+- Dark mode is acceptable
+- External assets are reliable
+- No broken image URLs
+- No fake data
+
+==================================================
+FINAL REVIEW
+==================================================
+
+After editing README.md, perform a final Senior UI/UX review.
+
+Check:
+
+1. Premium appearance
+2. Recruiter readability
+3. Technical credibility
+4. Project visibility
+5. Internship visibility
+6. Mobile development visibility
+7. Skill hierarchy
+8. GitHub compatibility
+9. External asset reliability
+10. Excessive animations/decorations
+11. Broken links
+12. Markdown errors
+
+If something is weak, fix it before finishing.
+
+Do not stop at the audit stage.
+
+Do not wait for the external asset verification indefinitely.
+
+Proceed with the redesign now.
+
+At the end, show:
+
+1. Files changed
+2. Major improvements
+3. Projects selected
+4. Assets removed/replaced
+5. Final validation result
+
+Most importantly:
+
+DO NOT JUST DESCRIBE THE CHANGES.
+
+ACTUALLY EDIT README.md.
