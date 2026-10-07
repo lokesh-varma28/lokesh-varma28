@@ -1,0 +1,118 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 86" width="100%" height="86" fill="none">
+  <defs>
+    <linearGradient id="lf-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="lf-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="lf-line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="dot-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .node-box { fill: #0B0F19; stroke: #1E293B; stroke-width: 1.2; rx: 8px; }
+    .node-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, monospace; font-size: 11px; font-weight: 700; letter-spacing: 1px; fill: #F8FAFC; text-anchor: middle; }
+    .node-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif; font-size: 8px; font-weight: 500; fill: #94A3B8; text-anchor: middle; }
+    .track-line { stroke: #1E293B; stroke-width: 2; stroke-dasharray: 4 4; }
+    .arrow-icon { fill: #06B6D4; opacity: 0.7; }
+    @media (prefers-color-scheme: light) {
+      .node-box { fill: #FFFFFF; stroke: #E2E8F0; }
+      .node-title { fill: #0F172A; }
+      .node-sub { fill: #64748B; }
+      .track-line { stroke: #CBD5E1; }
+    }
+  </style>
+
+  <!-- Base Track Line -->
+  <line x1="55" y1="43" x2="795" y2="43" class="track-line" />
+
+  <!-- Animated Pulse Line -->
+  <line x1="55" y1="43" x2="795" y2="43" stroke="url(#lf-line-grad)" stroke-width="2.5" opacity="0.6">
+    <animate attributeName="stroke-dasharray" values="10 800; 800 10; 10 800" dur="4s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Traveling Glowing Particle -->
+  <circle cx="55" cy="43" r="4.5" fill="#38BDF8" filter="url(#dot-glow)">
+    <animate attributeName="cx" values="55;175;295;420;545;670;795;55" dur="5s" keyTimes="0;0.16;0.32;0.48;0.64;0.8;0.96;1" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#818CF8;#38BDF8;#06B6D4;#818CF8;#38BDF8;#06B6D4;#818CF8;#818CF8" dur="5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Stage 1: BUILD -->
+  <g transform="translate(10, 19)">
+    <rect width="90" height="48" class="node-box" />
+    <text x="45" y="21" class="node-title">BUILD</text>
+    <text x="45" y="35" class="node-sub">React · Node · Py</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <polygon points="107,43 103,40 103,46" class="arrow-icon" />
+
+  <!-- Stage 2: STORE -->
+  <g transform="translate(130, 19)">
+    <rect width="90" height="48" class="node-box" />
+    <text x="45" y="21" class="node-title">STORE</text>
+    <text x="45" y="35" class="node-sub">Postgres · Mongo</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <polygon points="227,43 223,40 223,46" class="arrow-icon" />
+
+  <!-- Stage 3: TEST -->
+  <g transform="translate(250, 19)">
+    <rect width="90" height="48" class="node-box" />
+    <text x="45" y="21" class="node-title">TEST</text>
+    <text x="45" y="35" class="node-sub">Postman · Jest</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <polygon points="347,43 343,40 343,46" class="arrow-icon" />
+
+  <!-- Stage 4: AUTOMATE -->
+  <g transform="translate(370, 19)">
+    <rect width="100" height="48" class="node-box" />
+    <text x="50" y="21" class="node-title">AUTOMATE</text>
+    <text x="50" y="35" class="node-sub">Playwright E2E</text>
+  </g>
+
+  <!-- Arrow 4 -->
+  <polygon points="477,43 473,40 473,46" class="arrow-icon" />
+
+  <!-- Stage 5: DEPLOY -->
+  <g transform="translate(497, 19)">
+    <rect width="96" height="48" class="node-box" />
+    <text x="48" y="21" class="node-title">DEPLOY</text>
+    <text x="48" y="35" class="node-sub">Vercel · Render</text>
+  </g>
+
+  <!-- Arrow 5 -->
+  <polygon points="600,43 596,40 596,46" class="arrow-icon" />
+
+  <!-- Stage 6: AI-ASSIST -->
+  <g transform="translate(620, 19)">
+    <rect width="100" height="48" class="node-box" />
+    <text x="50" y="21" class="node-title">AI-ASSIST</text>
+    <text x="50" y="35" class="node-sub">Cursor · Windsurf</text>
+  </g>
+
+  <!-- Arrow 6 -->
+  <polygon points="727,43 723,40 723,46" class="arrow-icon" />
+
+  <!-- Stage 7: INTEGRATE -->
+  <g transform="translate(747, 19)">
+    <rect width="95" height="48" class="node-box" />
+    <text x="47.5" y="21" class="node-title">INTEGRATE</text>
+    <text x="47.5" y="35" class="node-sub">Gemini API · LLMs</text>
+  </g>
+</svg>
