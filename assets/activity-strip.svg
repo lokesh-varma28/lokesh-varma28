@@ -1,0 +1,57 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="100%" height="110" fill="none">
+  <defs>
+    <linearGradient id="act-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1020" />
+      <stop offset="100%" stop-color="#080C18" />
+    </linearGradient>
+    <clipPath id="act-clip">
+      <rect width="900" height="110" rx="14" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .font-sans {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+    }
+    .font-mono {
+      font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+    }
+  </style>
+
+  <g clip-path="url(#act-clip)">
+    <rect width="900" height="110" rx="14" fill="url(#act-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" />
+
+    <!-- Metric 1: Verified Commits -->
+    <g transform="translate(40, 24)">
+      <text x="0" y="24" class="font-mono" font-size="14" font-weight="700" fill="#8B98A9" letter-spacing="1">ACTIVITY</text>
+      <text x="0" y="58" class="font-sans" font-size="28" font-weight="800" fill="#22D3EE">Active Shipping</text>
+      <text x="0" y="78" class="font-sans" font-size="14" fill="#8B98A9">Consistent git lifecycle</text>
+    </g>
+
+    <line x1="260" y1="20" x2="260" y2="90" stroke="rgba(255,255,255,0.06)" />
+
+    <!-- Metric 2: Live Codebases -->
+    <g transform="translate(300, 24)">
+      <text x="0" y="24" class="font-mono" font-size="14" font-weight="700" fill="#8B98A9" letter-spacing="1">PRODUCTION</text>
+      <text x="0" y="58" class="font-sans" font-size="28" font-weight="800" fill="#E6EDF3">5 Live Deployments</text>
+      <text x="0" y="78" class="font-sans" font-size="14" fill="#8B98A9">Verifiable working software</text>
+    </g>
+
+    <line x1="560" y1="20" x2="560" y2="90" stroke="rgba(255,255,255,0.06)" />
+
+    <!-- Metric 3: Primary Languages Distribution -->
+    <g transform="translate(600, 24)">
+      <text x="0" y="24" class="font-mono" font-size="14" font-weight="700" fill="#8B98A9" letter-spacing="1">PRIMARY LANGUAGES</text>
+      <g transform="translate(0, 42)">
+        <!-- Progress Bar -->
+        <rect width="250" height="10" rx="5" fill="#1E2640" />
+        <rect width="115" height="10" rx="5" fill="#F7DF1E" />
+        <rect x="117" width="70" height="10" rx="0" fill="#3178C6" />
+        <rect x="189" width="45" height="10" rx="0" fill="#3776AB" />
+        <rect x="236" width="14" height="10" rx="5" fill="#E34F26" />
+        
+        <text x="0" y="32" class="font-mono" font-size="13" fill="#E6EDF3">JavaScript · TypeScript · Python</text>
+      </g>
+    </g>
+  </g>
+</svg>

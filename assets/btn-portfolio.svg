@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 44" width="154" height="44" fill="none">
+  <defs>
+    <linearGradient id="btn-grad-primary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+  </defs>
+  <style>
+    .btn-font {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+    }
+  </style>
+  <rect width="154" height="44" rx="10" fill="url(#btn-grad-primary)" stroke="none" stroke-width="1.2" />
+  <g transform="translate(16, 12)">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#080C18" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
+    </svg>
+  </g>
+  <text x="44" y="27" class="btn-font" fill="#080C18">Portfolio</text>
+</svg>

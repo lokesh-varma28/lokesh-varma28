@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 44" width="136" height="44" fill="none">
+  <defs>
+    <linearGradient id="btn-grad-primary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+  </defs>
+  <style>
+    .btn-font {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+    }
+  </style>
+  <rect width="136" height="44" rx="10" fill="#0B1020" stroke="rgba(255,255,255,0.12)" stroke-width="1.2" />
+  <g transform="translate(16, 12)">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z M22 6l-10 7L2 6" />
+    </svg>
+  </g>
+  <text x="44" y="27" class="btn-font" fill="#E6EDF3">Email</text>
+</svg>
