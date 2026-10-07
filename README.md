@@ -368,19 +368,27 @@ The technical stack is organized across the end-to-end software development life
 
 <br/>
 
-### Grouped Technology Grid
+<p align="left">
+  <img src="./assets/header-capabilities.svg" alt="Core Engineering Capabilities" height="34" />
+</p>
 
 <table width="100%">
   <tr>
-    <td width="30%"><b>🌐 Frontend</b></td>
+    <td width="28%"><b>🔤 Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux&theme=dark" alt="Frontend Icons" />
+      <img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" alt="Languages Icons" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,redux&theme=dark" alt="Frontend Icons" />
     </td>
   </tr>
   <tr>
     <td><b>⚙️ Backend &amp; APIs</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,py,django&theme=dark" alt="Backend Icons" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" alt="Backend Icons" />
     </td>
   </tr>
   <tr>
@@ -405,9 +413,15 @@ The technical stack is organized across the end-to-end software development life
     </td>
   </tr>
   <tr>
-    <td><b>☁️ Cloud &amp; Tooling</b></td>
+    <td><b>☁️ Cloud &amp; Deployment</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vercel,render,netlify,cloudflare,git,github,vscode&theme=dark" alt="Cloud and Tooling Icons" />
+      <img src="https://skillicons.dev/icons?i=vercel,render,netlify,cloudflare&theme=dark" alt="Cloud and Deployment Icons" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Development Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools Icons" />
     </td>
   </tr>
   <tr>
@@ -425,50 +439,56 @@ The technical stack is organized across the end-to-end software development life
 
 <br/>
 
-### Core Engineering Capabilities
-
-<table width="100%">
-  <tr>
-    <td width="30%"><b>FRONTEND</b></td>
-    <td><b>React</b> • <b>JavaScript</b> • <b>HTML5</b> • <b>CSS3</b> • <b>Tailwind CSS</b> • <b>Redux</b> • <b>Zustand</b></td>
-  </tr>
-  <tr>
-    <td><b>BACKEND &amp; APIs</b></td>
-    <td><b>Python</b> • <b>Django REST Framework</b> • <b>Node.js</b> • <b>Express.js</b> • <b>REST APIs</b></td>
-  </tr>
-  <tr>
-    <td><b>MOBILE</b></td>
-    <td><b>React Native</b> <i>(Cross-platform iOS &amp; Android mobile application development)</i></td>
-  </tr>
-  <tr>
-    <td><b>DATABASES &amp; SERVICES</b></td>
-    <td><b>PostgreSQL</b> • <b>MongoDB</b> • <b>Supabase</b> • <b>Firebase</b></td>
-  </tr>
-  <tr>
-    <td><b>DEVELOPMENT TOOLS</b></td>
-    <td><b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>TypeScript</b></td>
-  </tr>
-  <tr>
-    <td><b>API TESTING &amp; DEBUGGING</b></td>
-    <td><b>Postman</b> • <b>Bruno</b> • <b>Thunder Client</b></td>
-  </tr>
-  <tr>
-    <td><b>TEST AUTOMATION &amp; E2E</b></td>
-    <td><b>Playwright</b></td>
-  </tr>
-  <tr>
-    <td><b>CLOUD &amp; DEPLOYMENT</b></td>
-    <td><b>Vercel</b> • <b>Netlify</b> • <b>Render</b> • <b>Railway</b> • <b>Cloudflare</b></td>
-  </tr>
-  <tr>
-    <td><b>AI-ASSISTED DEVELOPMENT</b></td>
-    <td><b>Cursor</b> • <b>Kiro</b> • <b>Antigravity</b> • <b>Windsurf</b> • <b>TRIM</b> <i>(Augmented engineering workflows)</i></td>
-  </tr>
-  <tr>
-    <td><b>AI &amp; API INTEGRATION</b></td>
-    <td><b>Gemini API</b> <i>(Google Gemini API integration verified in production applications)</i></td>
-  </tr>
-</table>
+<details>
+  <summary><b>Full capability list</b></summary>
+  <br/>
+  <table width="100%">
+    <tr>
+      <td width="28%"><b>LANGUAGES</b></td>
+      <td><b>JavaScript</b> • <b>TypeScript</b> • <b>Python</b> • <b>HTML5</b> • <b>CSS3</b></td>
+    </tr>
+    <tr>
+      <td><b>FRONTEND</b></td>
+      <td><b>React</b> • <b>Tailwind CSS</b> • <b>Redux</b> • <b>Zustand</b></td>
+    </tr>
+    <tr>
+      <td><b>BACKEND &amp; APIs</b></td>
+      <td><b>Django REST Framework</b> • <b>Node.js</b> • <b>Express.js</b> • <b>REST APIs</b></td>
+    </tr>
+    <tr>
+      <td><b>MOBILE</b></td>
+      <td><b>React Native</b> <i>(Cross-platform iOS &amp; Android mobile application development)</i></td>
+    </tr>
+    <tr>
+      <td><b>DATABASES &amp; SERVICES</b></td>
+      <td><b>PostgreSQL</b> • <b>MongoDB</b> • <b>Supabase</b> • <b>Firebase</b></td>
+    </tr>
+    <tr>
+      <td><b>DEVELOPMENT TOOLS</b></td>
+      <td><b>Git</b> • <b>GitHub</b> • <b>VS Code</b></td>
+    </tr>
+    <tr>
+      <td><b>API TESTING &amp; DEBUGGING</b></td>
+      <td><b>Postman</b> • <b>Bruno</b> • <b>Thunder Client</b></td>
+    </tr>
+    <tr>
+      <td><b>TEST AUTOMATION &amp; E2E</b></td>
+      <td><b>Playwright</b></td>
+    </tr>
+    <tr>
+      <td><b>CLOUD &amp; DEPLOYMENT</b></td>
+      <td><b>Vercel</b> • <b>Netlify</b> • <b>Render</b> • <b>Railway</b> • <b>Cloudflare</b></td>
+    </tr>
+    <tr>
+      <td><b>AI-ASSISTED DEVELOPMENT</b></td>
+      <td><b>Cursor</b> • <b>Kiro</b> • <b>Antigravity</b> • <b>Windsurf</b> • <b>TRIM</b> <i>(Augmented engineering workflows)</i></td>
+    </tr>
+    <tr>
+      <td><b>AI &amp; API INTEGRATION</b></td>
+      <td><b>Gemini API</b> <i>(Google Gemini API integration verified in production applications)</i></td>
+    </tr>
+  </table>
+</details>
 
 <br/>
 
