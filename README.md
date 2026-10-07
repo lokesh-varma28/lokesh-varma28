@@ -195,11 +195,11 @@
 <h2><img src="./assets/section-03-stack.svg" alt="03 — TECHNICAL STACK" height="42" /></h2>
 
 <p align="center">
-  <img src="./assets/stack-matrix.svg" width="100%" alt="Technical Stack Matrix" />
+  <img src="./assets/stack.svg" width="100%" alt="Core Engineering Capabilities — Languages: JavaScript, TypeScript, Python, HTML5, CSS3; Frontend: React, Tailwind CSS, Redux, Zustand; Backend and Data: Node.js, Express.js, Django REST Framework, PostgreSQL, MongoDB, Supabase, Firebase; Cloud and Tools: Vercel, Netlify, Render, Railway, Cloudflare, Git, GitHub, VS Code, Postman, Bruno, Thunder Client; AI-assisted: Cursor, Kiro, Antigravity, Windsurf, Gemini API" />
 </p>
 
 <p>
-  <b>Currently exploring:</b> <code>React Native</code> (cross-platform mobile) and <code>Playwright</code> (end-to-end automation).
+  <b>Currently exploring:</b> <code>React Native</code> and <code>Playwright</code> &nbsp;<!-- TODO: confirm the tool name "TRIM" (Trae?) -->
 </p>
 
 <blockquote>
