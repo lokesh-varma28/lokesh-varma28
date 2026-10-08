@@ -1,22 +1,17 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" fill="none">
-  <defs>
-    <linearGradient id="btn-grad-primary" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22D3EE" />
-      <stop offset="100%" stop-color="#6366F1" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" fill="none">
   <style>
     .btn-font {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
-      font-size: 15px;
+      font-size: 14.5px;
       font-weight: 600;
+      letter-spacing: 0.2px;
     }
   </style>
-  <rect width="150" height="44" rx="10" fill="#0B1020" stroke="rgba(255,255,255,0.12)" stroke-width="1.2" />
+  <rect width="150" height="44" rx="10" fill="#0B1020" stroke="rgba(229,192,123,0.25)" stroke-width="1.2" />
   <g transform="translate(16, 12)">
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="#22D3EE" stroke="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="#E5C07B" stroke="none">
       <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z M2 9h4v12H2z M4 6a2 2 0 1 1 0-4 2 2 0 0 1 0 4z" />
     </svg>
   </g>
-  <text x="44" y="27" class="btn-font" fill="#E6EDF3">LinkedIn</text>
+  <text x="44" y="27" class="btn-font" fill="#F1F5F9">LinkedIn</text>
 </svg>

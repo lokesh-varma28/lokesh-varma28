@@ -1,53 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%" height="60" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 52" width="100%" height="52" fill="none">
   <defs>
     <linearGradient id="strip-bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0B1020" />
+      <stop offset="0%" stop-color="#080C16" />
       <stop offset="50%" stop-color="#0E162D" />
-      <stop offset="100%" stop-color="#0B1020" />
+      <stop offset="100%" stop-color="#080C16" />
     </linearGradient>
     <clipPath id="strip-clip">
-      <rect width="900" height="60" rx="12" />
+      <rect width="900" height="52" rx="10" />
     </clipPath>
   </defs>
 
   <style>
     .strip-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, monospace;
-      font-size: 25px;
+      font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 13.5px;
       font-weight: 700;
-      letter-spacing: 0.3px;
+      letter-spacing: 1.5px;
       fill: #E6EDF3;
     }
     .strip-dot {
-      fill: #22D3EE;
-      opacity: 0.85;
+      fill: #E5C07B;
+      font-weight: 900;
     }
     @media (prefers-reduced-motion: no-preference) {
       .marquee-track {
-        animation: marquee 45s linear infinite;
+        animation: marquee 35s linear infinite;
       }
     }
     @keyframes marquee {
       0% { transform: translateX(0px); }
-      100% { transform: translateX(-1100px); }
+      100% { transform: translateX(-950px); }
     }
   </style>
 
   <g clip-path="url(#strip-clip)">
-    <rect width="900" height="60" rx="12" fill="url(#strip-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" />
+    <rect width="900" height="52" rx="10" fill="url(#strip-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.2" />
 
-    <!-- Static fallback / Marquee track (all 8 items fit initially) -->
+    <!-- Seamless loop marquee track -->
     <g class="marquee-track">
       <!-- Group 1 -->
-      <g transform="translate(25, 39)">
+      <g transform="translate(20, 31)">
         <text class="strip-text">
-          React <tspan class="strip-dot">·</tspan> TypeScript <tspan class="strip-dot">·</tspan> Node.js <tspan class="strip-dot">·</tspan> Express <tspan class="strip-dot">·</tspan> Python <tspan class="strip-dot">·</tspan> Django <tspan class="strip-dot">·</tspan> PostgreSQL <tspan class="strip-dot">·</tspan> MongoDB <tspan class="strip-dot">·</tspan>
+          FULL-STACK <tspan class="strip-dot">·</tspan> AI <tspan class="strip-dot">·</tspan> MOBILE <tspan class="strip-dot">·</tspan> APIs <tspan class="strip-dot">·</tspan> CLOUD <tspan class="strip-dot">·</tspan> TESTING <tspan class="strip-dot">·</tspan> MERN <tspan class="strip-dot">·</tspan> PYTHON <tspan class="strip-dot">·</tspan> DJANGO REST <tspan class="strip-dot">·</tspan> REACT NATIVE <tspan class="strip-dot">·</tspan>
         </text>
       </g>
       <!-- Duplicate Group 2 for seamless loop -->
-      <g transform="translate(1125, 39)">
+      <g transform="translate(970, 31)">
         <text class="strip-text">
-          React <tspan class="strip-dot">·</tspan> TypeScript <tspan class="strip-dot">·</tspan> Node.js <tspan class="strip-dot">·</tspan> Express <tspan class="strip-dot">·</tspan> Python <tspan class="strip-dot">·</tspan> Django <tspan class="strip-dot">·</tspan> PostgreSQL <tspan class="strip-dot">·</tspan> MongoDB <tspan class="strip-dot">·</tspan>
+          FULL-STACK <tspan class="strip-dot">·</tspan> AI <tspan class="strip-dot">·</tspan> MOBILE <tspan class="strip-dot">·</tspan> APIs <tspan class="strip-dot">·</tspan> CLOUD <tspan class="strip-dot">·</tspan> TESTING <tspan class="strip-dot">·</tspan> MERN <tspan class="strip-dot">·</tspan> PYTHON <tspan class="strip-dot">·</tspan> DJANGO REST <tspan class="strip-dot">·</tspan> REACT NATIVE <tspan class="strip-dot">·</tspan>
         </text>
       </g>
     </g>
