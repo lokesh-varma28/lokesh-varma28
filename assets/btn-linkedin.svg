@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 46" width="150" height="46" fill="none">
   <style>
-    .btn-font {
+    .btn-text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
-      font-size: 14.5px;
-      font-weight: 600;
+      font-size: 15px;
+      font-weight: 700;
       letter-spacing: 0.2px;
     }
   </style>
-  <rect width="150" height="44" rx="10" fill="#0B1020" stroke="rgba(229,192,123,0.25)" stroke-width="1.2" />
-  <g transform="translate(16, 12)">
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="#E5C07B" stroke="none">
+  <rect width="150" height="46" rx="10" fill="#0B1020" stroke="rgba(56,189,248,0.35)" stroke-width="1.2" />
+  <g transform="translate(16, 13)">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="#38BDF8">
       <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z M2 9h4v12H2z M4 6a2 2 0 1 1 0-4 2 2 0 0 1 0 4z" />
     </svg>
   </g>
-  <text x="44" y="27" class="btn-font" fill="#F1F5F9">LinkedIn</text>
+  <text x="44" y="29" class="btn-text" fill="#F8FAFC">LinkedIn</text>
 </svg>

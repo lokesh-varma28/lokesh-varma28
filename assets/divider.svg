@@ -1,42 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 16" width="100%" height="16" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 16" width="100%" fill="none">
   <defs>
     <linearGradient id="div-gold" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#E5C07B" stop-opacity="0" />
-      <stop offset="25%" stop-color="#E5C07B" stop-opacity="0.3" />
-      <stop offset="50%" stop-color="#F5D061" stop-opacity="0.7" />
-      <stop offset="75%" stop-color="#E5C07B" stop-opacity="0.3" />
+      <stop offset="30%" stop-color="#E5C07B" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#F5D061" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#E5C07B" stop-opacity="0.3" />
       <stop offset="100%" stop-color="#E5C07B" stop-opacity="0" />
     </linearGradient>
-    <filter id="dot-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.5" />
-    </filter>
   </defs>
-
-  <style>
-    .track-line {
-      stroke: #162036;
-      stroke-width: 1.5;
-    }
-    @media (prefers-reduced-motion: no-preference) {
-      .travel-dot {
-        animation: dotTravel 7s ease-in-out infinite;
-      }
-    }
-    @keyframes dotTravel {
-      0% { transform: translateX(40px); opacity: 0; }
-      15% { opacity: 1; }
-      85% { opacity: 1; }
-      100% { transform: translateX(860px); opacity: 0; }
-    }
-  </style>
-
-  <!-- Base track line -->
-  <line x1="40" y1="8" x2="860" y2="8" class="track-line" />
-  <line x1="40" y1="8" x2="860" y2="8" stroke="url(#div-gold)" stroke-width="1.5" />
-
-  <!-- Travelling Dot (7s loop) -->
-  <g class="travel-dot">
-    <circle cx="0" cy="8" r="4.5" fill="#E5C07B" filter="url(#dot-glow)" />
-    <circle cx="0" cy="8" r="2.5" fill="#FFFFFF" />
-  </g>
+  <line x1="20" y1="8" x2="620" y2="8" stroke="#162036" stroke-width="1.2" />
+  <line x1="80" y1="8" x2="560" y2="8" stroke="url(#div-gold)" stroke-width="1.2" />
+  <circle cx="320" cy="8" r="3" fill="#F5D061" />
 </svg>

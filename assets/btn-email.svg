@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 44" width="136" height="44" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 46" width="104" height="46" fill="none">
   <style>
-    .btn-font {
+    .btn-text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
-      font-size: 14.5px;
-      font-weight: 600;
+      font-size: 15px;
+      font-weight: 700;
       letter-spacing: 0.2px;
     }
   </style>
-  <rect width="136" height="44" rx="10" fill="#0B1020" stroke="rgba(229,192,123,0.25)" stroke-width="1.2" />
-  <g transform="translate(16, 12)">
+  <rect width="104" height="46" rx="10" fill="#0B1020" stroke="rgba(229,192,123,0.35)" stroke-width="1.2" />
+  <g transform="translate(10, 13)">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#E5C07B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z M22 6l-10 7L2 6" />
     </svg>
   </g>
-  <text x="44" y="27" class="btn-font" fill="#F1F5F9">Email</text>
+  <text x="36" y="29" class="btn-text" fill="#F8FAFC">Email</text>
 </svg>
