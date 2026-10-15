@@ -1,141 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:1a0b2e,100:0a0a0f&section=header&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1220,60:111B2E,100:0B1220&section=header" width="100%" alt="" />
 
-# NATRA LOKESH
+# LOKESH VARMA
 
-### Full-Stack Developer
+### FULL-STACK DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Building+full-stack+products;MERN+%C2%B7+Django+REST+%C2%B7+React+Native;Clean+code.+Live+deployments.;Open+to+roles+%26+freelance" alt="Building full-stack products. MERN, Django REST, React Native. Open to roles and freelance." />
+`MERN · Python · Django REST · React Native`
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=C9A96E&center=true&vCenter=true&width=420&height=28&lines=Modern+web+and+mobile+applications;REST+APIs+and+backend+systems;AI-powered+products" alt="Modern web and mobile applications, REST APIs and backend systems, AI-powered products" />
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-22C55E?style=flat-square&labelColor=0A0A0F" alt="Open to work" />
-<img src="https://img.shields.io/badge/RAJAHMUNDRY%2C%20INDIA-22D3EE?style=flat-square&labelColor=0A0A0F" alt="Rajahmundry, India" />
-<img src="https://komarev.com/ghpvc/?username=lokesh-varma28&label=VIEWS&color=8B5CF6&style=flat-square&labelColor=0A0A0F" alt="Profile views" />
+*Building modern web and mobile applications, REST APIs, and AI-powered products.*
 
-<br/><br/>
+<a href="https://www.natralokesh.in/"><img src="https://img.shields.io/badge/PORTFOLIO-C9A96E?style=for-the-badge&logo=googlechrome&logoColor=0B1220" alt="Portfolio" /></a>
+<a href="https://github.com/lokesh-varma28"><img src="https://img.shields.io/badge/GITHUB-C9A96E?style=for-the-badge&logo=github&logoColor=0B1220" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="https://img.shields.io/badge/LINKEDIN-C9A96E?style=for-the-badge&logo=linkedin&logoColor=0B1220" alt="LinkedIn" /></a>
+<a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C9A96E?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Email" /></a>
 
-<a href="https://my-portfolio-one-gold-42.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F" alt="LinkedIn" /></a>
-<a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F" alt="Email" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1220,50:C9A96E,100:0B1220" width="100%" alt="" />
 
-<br/><br/>
+</div>
 
-I build and ship full-stack products, from React interfaces to Node and Django APIs, and deploy them live. Every featured project below has a working demo.
+## About
 
-<br/>
+Full-Stack Developer Intern at **Godavari Wave Technologies**, Rajahmundry, working on web and mobile development.
+I build **REST APIs and backends** with Node.js / Express and Django REST Framework, create interfaces with **React**, and ship **AI-powered applications** with the Gemini API.
+Core stack: **MERN**, **Python / Django**, **React Native**.
+Each featured project below links to its source code and live demo.
 
-<img src="https://img.shields.io/badge/NOW-React%20Native-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="Now: React Native" />
-<img src="https://img.shields.io/badge/NOW-Playwright-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="Now: Playwright" />
-<img src="https://img.shields.io/badge/NOW-Gemini%20API-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="Now: Gemini API" />
-<img src="https://img.shields.io/badge/GOAL-Full--Stack%20Role%20(MERN%20%2B%20Python)-22D3EE?style=flat-square&labelColor=0A0A0F" alt="Goal: full-stack role" />
+## Experience
 
-<br/><br/>
+**Full-Stack Developer Intern** · Godavari Wave Technologies
+Rajahmundry, Andhra Pradesh, India · **Currently Working** · 3 months
 
-<!-- ══════════════ FEATURED PROJECTS ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,100:22D3EE" width="100%" alt="" />
+- Building responsive business websites as part of internship projects.
 
-## FEATURED PROJECTS
+## Featured Projects
 
-<a href="https://github.com/lokesh-varma28/Mern-Full-Stack-Ecommerce"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=Mern-Full-Stack-Ecommerce&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16&description_lines_count=3" alt="MERN E-Commerce" /></a>
-<a href="https://github.com/lokesh-varma28/ai-chatbot"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=ai-chatbot&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16&description_lines_count=3" alt="AI Chatbot" /></a>
-<a href="https://github.com/lokesh-varma28/Full-Stack-DRF-React"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=Full-Stack-DRF-React&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16&description_lines_count=3" alt="ApexStore" /></a>
-<a href="https://github.com/lokesh-varma28/ProStackHub_CustomerAgentSystem"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=ProStackHub_CustomerAgentSystem&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16&description_lines_count=3" alt="DeskHub" /></a>
+### 1. AI Chatbot Assistant
+Full-stack AI assistant with authenticated and guest chat, powered by the Google Gemini API.
 
-<br/>
+- JWT authentication with saved, per-user conversation history
+- Gemini-powered responses rendered as Markdown
+- File upload with text extraction (including PDFs)
+- Hardened Express API with Helmet and rate limiting
 
-<a href="https://mern-full-stack-ecommerce.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-MERN%20STORE-8B5CF6?style=for-the-badge&labelColor=0A0A0F" alt="Live demo: MERN Store" /></a>
-<a href="https://ai-chatbot-f3t9.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-AI%20CHATBOT-8B5CF6?style=for-the-badge&labelColor=0A0A0F" alt="Live demo: AI Chatbot" /></a>
-<a href="https://apexstore-frontend.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-APEXSTORE-8B5CF6?style=for-the-badge&labelColor=0A0A0F" alt="Live demo: ApexStore" /></a>
-<a href="https://client-chi-six-93.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-DESKHUB-8B5CF6?style=for-the-badge&labelColor=0A0A0F" alt="Live demo: DeskHub" /></a>
+`React` · `Vite` · `Node.js` · `Express` · `MongoDB` · `Gemini API`
 
-<br/><br/>
+[Live demo](https://ai-chatbot-f3t9.vercel.app/) · [Source code](https://github.com/lokesh-varma28/ai-chatbot)
+
+### 2. MERN Multi-Tier E-Commerce Platform
+E-commerce platform with separate customer and seller storefronts on a shared Express API.
+
+- Customer storefront and a dedicated seller frontend, including seller applications
+- Cart, wishlist, orders, coupons, returns, reviews, and invoices
+- Razorpay payments, Google sign-in, and Cloudinary image uploads
+- Inventory and analytics endpoints for sellers
+
+`React` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB` · `Razorpay`
+
+[Customer demo](https://mern-full-stack-ecommerce.vercel.app) · [Seller demo](https://mern-full-stack-ecommerce-jhtr.vercel.app) · [Source code](https://github.com/lokesh-varma28/Mern-Full-Stack-Ecommerce)
+
+### 3. ApexStore — React + Django REST Framework
+E-commerce application with a Django REST Framework API and a React frontend.
+
+- JWT authentication with Django REST Framework permissions and throttling
+- Razorpay payment integration and Cloudinary media storage
+- Filtering and pagination on the API, PostgreSQL-ready configuration
+- React frontend with React Query for data fetching and Zustand for state
+
+`React` · `Zustand` · `Tailwind CSS` · `Python` · `Django REST Framework` · `PostgreSQL`
+
+[Live demo](https://apexstore-frontend.vercel.app) · [Source code](https://github.com/lokesh-varma28/Full-Stack-DRF-React)
 
 <details>
-<summary><img src="https://img.shields.io/badge/%2B%20MORE%20PROJECTS-1A1033?style=for-the-badge&labelColor=0A0A0F&color=2A2147" alt="More projects" /></summary>
-<br/>
-
-<a href="https://github.com/lokesh-varma28/dilip-opticals-website"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=dilip-opticals-website&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16" alt="Dilip Optics" /></a>
-<a href="https://github.com/lokesh-varma28/ProStackHub-CartCraft"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=ProStackHub-CartCraft&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16" alt="CartCraft" /></a>
-<a href="https://github.com/lokesh-varma28/ProStackHub_ShelfLife"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=ProStackHub_ShelfLife&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16" alt="ShelfLife" /></a>
-<a href="https://github.com/lokesh-varma28/expense-tracker-dashboard"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=lokesh-varma28&repo=expense-tracker-dashboard&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16" alt="Expense Tracker" /></a>
+<summary><b>More Projects</b></summary>
 
 <br/>
 
-<a href="https://dilip-opticals-website.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-DILIP%20OPTICS-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="Live: Dilip Optics" /></a>
-<a href="https://frontend-silk-two-32.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-CARTCRAFT-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="Live: CartCraft" /></a>
-<a href="https://pro-stack-hub-shelf-life-ten.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-SHELFLIFE-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="Live: ShelfLife" /></a>
-<a href="https://expense-tracker-dashboard-beta.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE-EXPENSE%20TRACKER-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="Live: Expense Tracker" /></a>
+- **DeskHub** — customer–agent support system with a React + TypeScript client and an Express + MongoDB API (Zod validation, Jest tests). [Live](https://client-chi-six-93.vercel.app) · [Code](https://github.com/lokesh-varma28/ProStackHub_CustomerAgentSystem)
+- **Dilip Optics** — business website for an optical store, built with React and Tailwind CSS. [Live](https://dilip-opticals-website.vercel.app/) · [Code](https://github.com/lokesh-varma28/dilip-opticals-website)
+- **CartCraft** — MERN shopping application with Stripe and Cloudinary integrations. [Live](https://frontend-silk-two-32.vercel.app/) · [Code](https://github.com/lokesh-varma28/ProStackHub-CartCraft)
+- **ShelfLife** — MERN application with Playwright end-to-end testing. [Live](https://pro-stack-hub-shelf-life-ten.vercel.app) · [Code](https://github.com/lokesh-varma28/ProStackHub_ShelfLife)
+- **Expense Tracker** — React dashboard with Recharts visualisations. [Live](https://expense-tracker-dashboard-beta.vercel.app) · [Code](https://github.com/lokesh-varma28/expense-tracker-dashboard)
 
 </details>
 
+## Technical Stack
+
+**Frontend** — React, JavaScript, HTML5, CSS3, Tailwind CSS, Redux, Zustand
+
+**Backend & APIs** — Python, Django REST Framework, Node.js, Express.js, REST APIs
+
+**Mobile** — React Native
+
+**Databases & Backend Services** — PostgreSQL, MongoDB, Supabase, Firebase
+
+**Development Tools** — Git, GitHub, VS Code, TypeScript
+
+**API Testing & Debugging** — Postman, Bruno, Thunder Client
+
+**Test Automation** — Playwright
+
+**Cloud & Deployment** — Vercel, Netlify, Render, Railway, Cloudflare
+
+**AI-Assisted Development** — Cursor, Kiro, Antigravity, Windsurf, TRIM
+
+**AI & API Integration** — Google Gemini API
+
+## Certifications & Education
+
+- **AI Fluency for Builders** — Anthropic Academy
+- **Cisco Packet Tracer / Networking** — Cisco Networking Academy
+- **Bachelor of Commerce** — Andhra University Online Degree · Expected graduation 2029
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&hide_border=true&bg_color=0B1220&title_color=C9A96E&text_color=F5F1E8&icon_color=C9A96E&border_radius=12" alt="GitHub stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&hide_border=true&bg_color=0B1220&title_color=C9A96E&text_color=F5F1E8&border_radius=12" alt="Top languages" />
+
+<img width="390" src="https://streak-stats.demolab.com?user=lokesh-varma28&background=0B1220&border=0B1220&ring=C9A96E&fire=C9A96E&currStreakNum=F5F1E8&sideNums=F5F1E8&currStreakLabel=C9A96E&sideLabels=8B93A7&dates=8B93A7&border_radius=12" alt="Contribution streak" />
+
 <br/>
 
-<!-- ══════════════ EXPERIENCE ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,100:22D3EE" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" width="100%" />
+</picture>
 
-## EXPERIENCE
+</div>
 
-<img src="https://img.shields.io/badge/ROLE-Full--Stack%20Developer%20Intern-8B5CF6?style=for-the-badge&labelColor=0A0A0F" alt="Role: Full-Stack Developer Intern" />
-<img src="https://img.shields.io/badge/STATUS-Ongoing-22C55E?style=for-the-badge&labelColor=0A0A0F" alt="Status: ongoing" />
+## Connect
 
-<img src="https://img.shields.io/badge/REACT-UI-22D3EE?style=flat-square&labelColor=0A0A0F" alt="React UI" />
-<img src="https://img.shields.io/badge/NODE%20%2B%20EXPRESS-APIs-22D3EE?style=flat-square&labelColor=0A0A0F" alt="Node and Express APIs" />
-<img src="https://img.shields.io/badge/MONGODB-Data-22D3EE?style=flat-square&labelColor=0A0A0F" alt="MongoDB" />
-<img src="https://img.shields.io/badge/POSTMAN-Testing-22D3EE?style=flat-square&labelColor=0A0A0F" alt="Postman testing" />
+Open to conversations about full-stack roles and collaborations.
 
-<br/><br/>
+<div align="center">
 
-<!-- ══════════════ TECH STACK ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,100:22D3EE" width="100%" alt="" />
+<a href="https://www.natralokesh.in/"><img src="https://img.shields.io/badge/PORTFOLIO-C9A96E?style=for-the-badge&logo=googlechrome&logoColor=0B1220" alt="Portfolio" /></a>
+<a href="https://github.com/lokesh-varma28"><img src="https://img.shields.io/badge/GITHUB-C9A96E?style=for-the-badge&logo=github&logoColor=0B1220" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="https://img.shields.io/badge/LINKEDIN-C9A96E?style=for-the-badge&logo=linkedin&logoColor=0B1220" alt="LinkedIn" /></a>
+<a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C9A96E?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Email" /></a>
 
-## TECH STACK
-
-<img src="https://img.shields.io/badge/FRONTEND-1A1033?style=flat-square&labelColor=0A0A0F&color=2A2147" alt="Frontend" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" alt="Frontend icons" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/BACKEND-1A1033?style=flat-square&labelColor=0A0A0F&color=2A2147" alt="Backend" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" alt="Backend icons" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DATA%20%26%20CLOUD-1A1033?style=flat-square&labelColor=0A0A0F&color=2A2147" alt="Data and cloud" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,vercel&theme=dark" alt="Data and cloud icons" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/TOOLS%20%26%20TESTING-1A1033?style=flat-square&labelColor=0A0A0F&color=2A2147" alt="Tools and testing" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest&theme=dark" alt="Tools icons" />
-
-<br/><br/>
-
-<!-- ══════════════ GITHUB STATS ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,100:22D3EE" width="100%" alt="" />
-
-## GITHUB STATS
-
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&hide_border=false&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&border_color=2A2147&border_radius=16&count_private=true" alt="GitHub stats" />
-<img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&hide_border=false&bg_color=0A0A0F&title_color=A78BFA&text_color=C9D1D9&border_color=2A2147&border_radius=16" alt="Top languages" />
-<img width="380" src="https://streak-stats.demolab.com?user=lokesh-varma28&background=0A0A0F&border=2A2147&stroke=2A2147&ring=8B5CF6&fire=22D3EE&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280&border_radius=16" alt="Contribution streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-varma28&bg_color=0A0A0F&color=A78BFA&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&radius=16" alt="Contribution graph" />
-
-<br/><br/>
-
-<!-- ══════════════ CONNECT ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,100:22D3EE" width="100%" alt="" />
-
-## LET'S BUILD TOGETHER
-
-<a href="https://my-portfolio-one-gold-42.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F" alt="LinkedIn" /></a>
-<a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A0A0F,50:1A0B2E,100:000000&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0B1220,60:111B2E,100:0B1220&section=footer" width="100%" alt="" />
 
 </div>
