@@ -1,25 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 60" width="100%" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 64" width="100%" fill="none">
   <defs>
+    <!-- Wave Gradient 1: Champagne Gold Accent -->
     <linearGradient id="wave-grad-1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E5C07B" stop-opacity="0.15" />
-      <stop offset="50%" stop-color="#D4AF37" stop-opacity="0.35" />
-      <stop offset="100%" stop-color="#E5C07B" stop-opacity="0.15" />
+      <stop offset="0%" stop-color="#E5C07B" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#F5D061" stop-opacity="0.32">
+        <animate attributeName="stop-opacity" values="0.2;0.4;0.2" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#E5C07B" stop-opacity="0.12" />
     </linearGradient>
+
+    <!-- Wave Gradient 2: Subtle Deep Cyan & Gold Horizon -->
     <linearGradient id="wave-grad-2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.12" />
-      <stop offset="50%" stop-color="#E5C07B" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.12" />
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#E5C07B" stop-opacity="0.22">
+        <animate attributeName="stop-opacity" values="0.15;0.28;0.15" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.1" />
     </linearGradient>
+
     <clipPath id="footer-clip">
-      <rect width="640" height="60" rx="14" />
+      <rect width="640" height="64" rx="14" />
     </clipPath>
   </defs>
 
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .wave-slow {
+        animation: waveDrift 7s ease-in-out infinite alternate;
+      }
+      .wave-fast {
+        animation: waveDrift 5s ease-in-out infinite alternate-reverse;
+      }
+    }
+    @keyframes waveDrift {
+      0% { transform: translateY(0px) scaleY(1); }
+      100% { transform: translateY(-4px) scaleY(1.06); }
+    }
+  </style>
+
   <g clip-path="url(#footer-clip)">
-    <rect width="640" height="60" rx="14" fill="#080C16" stroke="rgba(255,255,255,0.06)" />
-    <!-- Wave Layer 1 -->
-    <path d="M 0 32 Q 160 14, 320 32 T 640 32 L 640 60 L 0 60 Z" fill="url(#wave-grad-1)" />
-    <!-- Wave Layer 2 -->
-    <path d="M 0 40 Q 160 48, 320 40 T 640 40 L 640 60 L 0 60 Z" fill="url(#wave-grad-2)" />
+    <!-- Dark Obsidian Base Plate -->
+    <rect width="640" height="64" rx="14" fill="#080C16" stroke="rgba(255,255,255,0.06)" stroke-width="1.2" />
+
+    <!-- Ambient Grid Accent Hairline -->
+    <line x1="20" y1="1" x2="620" y2="1" stroke="rgba(229,192,123,0.2)" stroke-width="1" />
+
+    <!-- Wave Layer 1: Ambient Cyan-Gold Flow -->
+    <path class="wave-slow" d="M -20 34 Q 140 16, 320 34 T 660 34 L 660 64 L -20 64 Z" fill="url(#wave-grad-2)" />
+
+    <!-- Wave Layer 2: Champagne Gold Surface Swell -->
+    <path class="wave-fast" d="M -20 42 Q 160 50, 320 42 T 660 42 L 660 64 L -20 64 Z" fill="url(#wave-grad-1)" />
   </g>
 </svg>

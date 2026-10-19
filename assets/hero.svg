@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" width="100%" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 270" width="100%" fill="none">
   <defs>
     <!-- Background Gradient: Deep Obsidian -->
     <linearGradient id="hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -14,8 +14,17 @@
       <stop offset="100%" stop-color="#D4AF37" />
     </linearGradient>
 
+    <!-- Top Highlight Subtle Animated Shimmer -->
+    <linearGradient id="top-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5C07B" stop-opacity="0" />
+      <stop offset="50%" stop-color="#F5D061" stop-opacity="0.45">
+        <animate attributeName="stop-opacity" values="0.2;0.65;0.2" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#E5C07B" stop-opacity="0" />
+    </linearGradient>
+
     <clipPath id="hero-clip">
-      <rect width="640" height="280" rx="16" />
+      <rect width="640" height="270" rx="16" />
     </clipPath>
   </defs>
 
@@ -39,42 +48,47 @@
       100% { opacity: 1; transform: translateY(0); }
     }
     @keyframes pulseRing {
-      0% { r: 5px; opacity: 0.9; }
-      70% { r: 12px; opacity: 0; }
-      100% { r: 12px; opacity: 0; }
+      0% { r: 4.5px; opacity: 0.9; }
+      70% { r: 11px; opacity: 0; }
+      100% { r: 11px; opacity: 0; }
     }
   </style>
 
   <!-- Opaque Rounded Dark Plate -->
   <g clip-path="url(#hero-clip)">
-    <rect width="640" height="280" rx="16" fill="url(#hero-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" />
+    <rect width="640" height="270" rx="16" fill="url(#hero-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" />
 
-    <!-- Subtle Top Edge Highlight -->
-    <line x1="16" y1="1" x2="624" y2="1" stroke="rgba(229,192,123,0.3)" stroke-width="1" />
+    <!-- Subtle Top Edge Animated Highlight -->
+    <line x1="16" y1="1" x2="624" y2="1" stroke="url(#top-shimmer)" stroke-width="1.2" />
 
     <g class="hero-text-reveal">
-      <!-- 0. Eyebrow Badge -->
-      <text x="32" y="42" class="font-mono" font-size="22" font-weight="700" fill="#E5C07B" letter-spacing="1.5">FULL-STACK ARCHITECTURE &amp; ENGINEERING</text>
+      <!-- 0. Engineering Profile Eyebrow Pill -->
+      <rect x="32" y="22" width="232" height="24" rx="12" fill="#0C1324" stroke="rgba(229,192,123,0.3)" stroke-width="1" />
+      <circle cx="44" cy="34" r="3.5" fill="#E5C07B" />
+      <text x="56" y="38" class="font-mono" font-size="11.5" font-weight="700" fill="#E5C07B" letter-spacing="1.2">SOFTWARE ARCHITECTURE</text>
 
       <!-- 1. Name -->
-      <text x="32" y="94" class="font-sans" font-size="46" font-weight="900" fill="#F8FAFC" letter-spacing="0.5">LOKESH VARMA</text>
+      <text x="32" y="88" class="font-sans" font-size="44" font-weight="900" fill="#F8FAFC" letter-spacing="0.5">LOKESH VARMA</text>
 
       <!-- 2. Primary Identity -->
-      <text x="32" y="136" class="font-sans" font-size="26" font-weight="800" fill="url(#hero-gold)" letter-spacing="1">FULL-STACK SOFTWARE DEVELOPER</text>
+      <text x="32" y="126" class="font-sans" font-size="24" font-weight="800" fill="url(#hero-gold)" letter-spacing="1">FULL-STACK SOFTWARE DEVELOPER</text>
 
       <!-- 3. Core Positioning Tags -->
-      <text x="32" y="172" class="font-mono" font-size="22" font-weight="600" fill="#94A3B8">MERN <tspan fill="#E5C07B">·</tspan> PYTHON <tspan fill="#E5C07B">·</tspan> DJANGO REST <tspan fill="#E5C07B">·</tspan> REACT NATIVE</text>
+      <text x="32" y="160" class="font-mono" font-size="16" font-weight="600" fill="#94A3B8">MERN <tspan fill="#E5C07B">·</tspan> PYTHON <tspan fill="#E5C07B">·</tspan> DJANGO REST <tspan fill="#E5C07B">·</tspan> REACT NATIVE</text>
 
       <!-- 4. Supporting Tagline -->
-      <text x="32" y="200" class="font-sans" font-size="18" font-weight="400" fill="#64748B">Building modern web and mobile applications, REST APIs, and AI-powered software.</text>
+      <text x="32" y="188" class="font-sans" font-size="15" font-weight="400" fill="#64748B">Building modern web and mobile applications, REST APIs, and AI-powered software.</text>
 
-      <!-- 5. Status Indicator Pill -->
-      <g transform="translate(32, 220)">
-        <rect width="576" height="44" rx="22" fill="#0C1324" stroke="rgba(16,185,129,0.35)" stroke-width="1.2" />
-        <!-- Pulsing Beacon -->
-        <circle cx="22" cy="22" r="5" fill="#10B981" />
-        <circle cx="22" cy="22" r="5" fill="#10B981" opacity="0.7" class="beacon-ring" />
-        <text x="40" y="29" class="font-sans" font-size="22" font-weight="600" fill="#E6EDF3">Open to Roles <tspan fill="#64748B">·</tspan> Intern @ Godavari Wave Tech</text>
+      <!-- 5. Status Indicator Pill with Pulsing Beacon -->
+      <g transform="translate(32, 212)">
+        <rect width="576" height="38" rx="19" fill="#0C1324" stroke="rgba(16,185,129,0.35)" stroke-width="1.2" />
+        <!-- Pulsing Live Beacon -->
+        <circle cx="20" cy="19" r="4.5" fill="#10B981" />
+        <circle cx="20" cy="19" r="4.5" fill="#10B981" opacity="0.7" class="beacon-ring">
+          <animate attributeName="r" values="4.5;11;11" dur="2.4s" repeatCount="indefinite" />
+          <animate attributeName="opacity" values="0.8;0;0" dur="2.4s" repeatCount="indefinite" />
+        </circle>
+        <text x="36" y="24" class="font-sans" font-size="14" font-weight="600" fill="#E6EDF3">Open to Roles <tspan fill="#64748B">·</tspan> Full-Stack Intern @ Godavari Wave Tech</text>
       </g>
     </g>
   </g>

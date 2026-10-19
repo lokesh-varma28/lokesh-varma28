@@ -1,14 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 16" width="100%" fill="none">
   <defs>
-    <linearGradient id="div-gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E5C07B" stop-opacity="0" />
-      <stop offset="30%" stop-color="#E5C07B" stop-opacity="0.3" />
-      <stop offset="50%" stop-color="#F5D061" stop-opacity="0.9" />
-      <stop offset="70%" stop-color="#E5C07B" stop-opacity="0.3" />
-      <stop offset="100%" stop-color="#E5C07B" stop-opacity="0" />
+    <!-- Base Subtle Hairline Gradient -->
+    <linearGradient id="div-base" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#162036" stop-opacity="0" />
+      <stop offset="25%" stop-color="#1E2A47" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#28385E" stop-opacity="1" />
+      <stop offset="75%" stop-color="#1E2A47" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#162036" stop-opacity="0" />
     </linearGradient>
+
+    <!-- Smooth Traveling Champagne Gold Shimmer -->
+    <linearGradient id="div-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5C07B" stop-opacity="0">
+        <animate attributeName="offset" values="-0.4; 1.0" dur="4.5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="15%" stop-color="#F5D061" stop-opacity="0.85">
+        <animate attributeName="offset" values="-0.25; 1.15" dur="4.5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="30%" stop-color="#E5C07B" stop-opacity="0">
+        <animate attributeName="offset" values="-0.1; 1.3" dur="4.5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <filter id="div-glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="1" result="glow" />
+      <feComposite in="SourceGraphic" in2="glow" operator="over" />
+    </filter>
   </defs>
-  <line x1="20" y1="8" x2="620" y2="8" stroke="#162036" stroke-width="1.2" />
-  <line x1="80" y1="8" x2="560" y2="8" stroke="url(#div-gold)" stroke-width="1.2" />
-  <circle cx="320" cy="8" r="3" fill="#F5D061" />
+
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .center-jewel {
+        animation: pulseJewel 3s ease-in-out infinite;
+      }
+    }
+    @keyframes pulseJewel {
+      0%, 100% { opacity: 0.65; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+  </style>
+
+  <!-- 1. Deep Obsidian Hairline Base -->
+  <line x1="16" y1="8" x2="624" y2="8" stroke="url(#div-base)" stroke-width="1.2" />
+
+  <!-- 2. Smooth Traveling Gold Light Sweep -->
+  <line x1="32" y1="8" x2="608" y2="8" stroke="url(#div-shimmer)" stroke-width="1.4" filter="url(#div-glow)" />
+
+  <!-- 3. Ambient Center Diamond Accents -->
+  <g transform="translate(320, 8)">
+    <circle cx="0" cy="0" r="2.5" fill="#F5D061" class="center-jewel" />
+    <circle cx="-16" cy="0" r="1.2" fill="#E5C07B" opacity="0.6" />
+    <circle cx="16" cy="0" r="1.2" fill="#E5C07B" opacity="0.6" />
+  </g>
 </svg>

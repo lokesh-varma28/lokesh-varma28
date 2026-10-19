@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Full-Stack Software Developer | MERN · Python · Django REST · React Native" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=E5C07B&center=true&vCenter=true&width=640&lines=Building+modern+web+and+mobile+applications;Expert+in+MERN+%26+Python;AI-powered+software+engineering" width="100%" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1200&color=E5C07B&center=true&vCenter=true&width=640&lines=Building+modern+web+and+mobile+applications;MERN+%C2%B7+Python+%C2%B7+Django+REST+%C2%B7+React+Native;Engineering+robust+REST+APIs+%26+scalable+systems;AI-powered+software+with+Google+Gemini" width="100%" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -11,14 +11,11 @@
   <a href="https://www.natralokesh.in/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
   &nbsp;
   <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
-</p>
-<p align="center">
+  &nbsp;
   <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://github.com/lokesh-varma28"><img src="./assets/btn-github.svg" height="46" alt="GitHub" /></a>
 </p>
-
-</div>
 
 <br/>
 
@@ -110,7 +107,7 @@
   <img src="./assets/projects/deskhub.svg" width="100%" alt="DeskHub Support System" />
 </a>
 
-### 04 · DeskHub — Helpdesk RBAC & Test Automation
+### 04 · DeskHub — Helpdesk RBAC &amp; Test Automation
 **Full-stack customer ticketing system with server-side Role-Based Access Control, Zod validation, and automated Jest/Supertest integration test coverage.**
 
 `TypeScript` · `Express.js` · `Jest Tests`
@@ -162,7 +159,7 @@
 
 **Active Focus:** `React Native` (cross-platform mobile) &nbsp;•&nbsp; `Playwright` (end-to-end automation) &nbsp;•&nbsp; `Gemini API` (LLM agents)
 
-> Disciplined engineering with AI-assisted acceleration, verifying every commit with automated tests.
+> Disciplined full-stack engineering with AI-assisted acceleration, verifying every commit with automated tests.
 
 <br/>
 
@@ -227,11 +224,20 @@
 
 <br/>
 
-<img src="https://github.com/lokesh-varma28/lokesh-varma28/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+<!-- GitHub Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 <br/>
 
 <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+
+<br/>
+
+<img src="./assets/section-connect.svg" width="100%" alt="04 — CONNECT" />
 
 <br/><br/>
 
@@ -247,8 +253,7 @@
   <a href="https://www.natralokesh.in/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
   &nbsp;
   <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
-</p>
-<p align="center">
+  &nbsp;
   <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://github.com/lokesh-varma28"><img src="./assets/btn-github.svg" height="46" alt="GitHub" /></a>
