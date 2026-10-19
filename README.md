@@ -1,13 +1,14 @@
 <div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Full-Stack Developer | MERN · Python · Django REST · React Native" />
+<img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Full-Stack Software Developer | MERN · Python · Django REST · React Native" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=E5C07B&center=true&vCenter=true&width=640&lines=Building+modern+web+and+mobile+applications;Expert+in+MERN+%26+Python;AI-powered+software+engineering" width="100%" alt="Typing Animation" />
+</div>
 
 <br/>
 
 <p align="center">
-  <a href="https://my-portfolio-one-gold-42.vercel.app/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://www.natralokesh.in/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://my-portfolio-one-gold-42.vercel.app/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
+  <a href="https://www.natralokesh.in/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
   &nbsp;
   <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
 </p>
@@ -226,24 +227,24 @@
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+<img src="https://github.com/lokesh-varma28/lokesh-varma28/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 
 <br/>
 
-<img src="./assets/section-connect.svg" width="100%" alt="04 — CONNECT" />
+<img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 
 <br/><br/>
 
-> **Open to Full-Stack Developer roles, internships, freelance projects, and technical collaborations.**
+> **Open to Full-Stack Software Developer roles, internships, freelance projects, and technical collaborations.**
 
 <br/>
 
 <div align="center">
 
 <p align="center">
-  <a href="https://my-portfolio-one-gold-42.vercel.app/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://www.natralokesh.in/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://my-portfolio-one-gold-42.vercel.app/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
+  <a href="https://www.natralokesh.in/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
   &nbsp;
   <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
 </p>
