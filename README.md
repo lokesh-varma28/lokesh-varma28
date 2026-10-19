@@ -1,6 +1,6 @@
 <div align="center">
-<img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Full-Stack Software Developer | MERN · Python · Django REST · React Native" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1200&color=E5C07B&center=true&vCenter=true&width=640&lines=Building+modern+web+and+mobile+applications;MERN+%C2%B7+Python+%C2%B7+Django+REST+%C2%B7+React+Native;Engineering+robust+REST+APIs+%26+scalable+systems;AI-powered+software+with+Google+Gemini" width="100%" alt="Typing Animation" />
+<img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Full-Stack Software Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Developer;React+%26+MERN+Developer;Python+%26+Django+REST+Developer;Web+%26+Mobile+Application+Developer" width="100%" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -8,11 +8,9 @@
 <p align="center">
   <a href="https://www.natralokesh.in/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://www.natralokesh.in/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://github.com/lokesh-varma28"><img src="./assets/btn-github.svg" height="46" alt="GitHub" /></a>
 </p>
@@ -23,107 +21,11 @@
 
 <br/>
 
-<img src="./assets/section-01-work.svg" width="100%" alt="01 — SELECTED WORK" />
+<img src="./assets/section-about.svg" width="100%" alt="01 — ABOUT ME" />
 
 <br/><br/>
 
-<!-- Project 1: AI Chatbot Assistant -->
-<a href="https://ai-chatbot-f3t9.vercel.app/">
-  <img src="./assets/projects/ai-chatbot.svg" width="100%" alt="AI Chatbot Assistant" />
-</a>
-
-### 01 · AI Chatbot Assistant
-**Contextual Google Gemini LLM assistant with multi-turn chat streaming, in-memory PDF parsing, and authenticated sessions.**
-
-`React 19` · `Gemini API` · `MongoDB Atlas`
-
-[**Live Demo &rarr;**](https://ai-chatbot-f3t9.vercel.app/) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/ai-chatbot)
-
-<details>
-  <summary><b>Key architecture &amp; highlights</b></summary>
-  <br/>
-
-- **Conversational Streaming:** Real-time multi-turn conversational AI powered by `@google/genai` with prompt grounding.
-- **Document Intelligence:** In-memory PDF text ingestion and chunking via `pdf-parse` for contextual Q&amp;A.
-- **Session Architecture:** JWT authentication with hashed credentials and persistent chat history in MongoDB Atlas.
-- **API Hardening:** Enforced rate limiting via `express-rate-limit` and HTTP security headers with Helmet.
-
-</details>
-
-<br/>
-
-<!-- Project 2: MERN Multi-Tier E-Commerce Platform -->
-<a href="https://mern-full-stack-ecommerce.vercel.app">
-  <img src="./assets/projects/mern-ecommerce.svg" width="100%" alt="MERN E-Commerce Platform" />
-</a>
-
-### 02 · MERN Multi-Tier E-Commerce Platform
-**Multi-tier commerce architecture featuring independent customer storefront, merchant seller portal, and Razorpay checkout.**
-
-`React` · `Node.js` · `MongoDB Atlas`
-
-[**Live Demo &rarr;**](https://mern-full-stack-ecommerce.vercel.app) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/Mern-Full-Stack-Ecommerce)
-
-<details>
-  <summary><b>Key architecture &amp; highlights</b></summary>
-  <br/>
-
-- **Multi-Tier Architecture:** Decoupled customer storefront and merchant dashboard communicating via a centralized REST API.
-- **Dual Authentication:** JWT session management alongside Google OAuth for secure multi-provider access.
-- **Commerce Operations:** Real-time cart synchronization, structured order lifecycles, and atomic stock tracking in MongoDB Atlas.
-- **Payments &amp; Media:** Integrated Razorpay checkout, Cloudinary media pipelines, and server-side PDF invoice generation with PDFKit.
-
-</details>
-
-<br/>
-
-<!-- Project 3: ApexStore -->
-<a href="https://apexstore-frontend.vercel.app">
-  <img src="./assets/projects/apexstore.svg" width="100%" alt="ApexStore Platform" />
-</a>
-
-### 03 · ApexStore — React + Django REST Framework
-**API-driven e-commerce platform pairing a type-safe TypeScript React frontend with a relational PostgreSQL Django REST Framework API.**
-
-`TypeScript React` · `Django REST` · `PostgreSQL`
-
-[**Live Demo &rarr;**](https://apexstore-frontend.vercel.app) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/Full-Stack-DRF-React)
-
-<details>
-  <summary><b>Key architecture &amp; highlights</b></summary>
-  <br/>
-
-- **Relational Backend Engine:** Structured Django REST Framework API on PostgreSQL modeling products, orders, and customer accounts.
-- **Authentication Integrity:** Secure token authentication and renewal workflows powered by Django SimpleJWT.
-- **Type-Safe Frontend:** Component architecture built with React, TypeScript, and Vite ensuring client-server contract consistency.
-- **Payments &amp; Media:** Integrated Razorpay payment processing and Cloudinary media pipelines for catalog assets.
-
-</details>
-
-<br/>
-
-<!-- Project 4: DeskHub -->
-<a href="https://client-chi-six-93.vercel.app">
-  <img src="./assets/projects/deskhub.svg" width="100%" alt="DeskHub Support System" />
-</a>
-
-### 04 · DeskHub — Helpdesk RBAC &amp; Test Automation
-**Full-stack customer ticketing system with server-side Role-Based Access Control, Zod validation, and automated Jest/Supertest integration test coverage.**
-
-`TypeScript` · `Express.js` · `Jest Tests`
-
-[**Live Demo &rarr;**](https://client-chi-six-93.vercel.app) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/ProStackHub_CustomerAgentSystem)
-
-<details>
-  <summary><b>Key architecture &amp; highlights</b></summary>
-  <br/>
-
-- **Role-Based Access Control:** Server-enforced RBAC separating customer ticket creation from agent triage queues.
-- **End-to-End TypeScript:** Unified contracts across React and Node.js/Express.js with strict runtime validation using Zod.
-- **Automated Testing Suite:** Integration test suite in Jest and Supertest running against an in-memory database.
-- **Lifecycle Triage:** Real-time ticket status tracking (`Open`, `In Progress`, `Resolved`) with responsive triage interfaces.
-
-</details>
+I’m a **Full-Stack Software Developer** currently working as a **Full-Stack Developer Intern at Godavari Wave Technologies** in Rajahmundry, Andhra Pradesh, India. I build modern web and mobile applications, work with backend technologies and REST APIs, and use modern development tools to build and improve software.
 
 <br/>
 
@@ -131,17 +33,17 @@
 
 <br/>
 
-<img src="./assets/section-02-experience.svg" width="100%" alt="02 — EXPERIENCE" />
+<img src="./assets/section-experience.svg" width="100%" alt="02 — PROFESSIONAL EXPERIENCE" />
 
 <br/><br/>
 
 ### Full-Stack Developer Intern
 **Godavari Wave Technologies** &nbsp;•&nbsp; 📍 Rajahmundry, Andhra Pradesh, India  
-🟢 **Currently Working** &nbsp;•&nbsp; ⏱️ **3 Months**
+🟢 **Currently Working**
 
 - **Frontend Engineering:** Architecting and implementing modular, responsive client applications in **React** with structured component architecture and clean state management.
-- **Backend &amp; REST APIs:** Engineering server-side routes, middleware, and controllers using **Node.js** and **Express.js**, enforcing payload validation and authorization rules.
-- **Data Modeling &amp; Contracts:** Designing data models and queries with **MongoDB**, connecting API endpoints to frontend views, and validating REST contracts using **Postman**.
+- **Backend & REST APIs:** Engineering server-side routes, middleware, and controllers using **Node.js** and **Express.js**, enforcing payload validation and authorization rules.
+- **Data Modeling & Contracts:** Designing data models and queries with **MongoDB**, connecting API endpoints to frontend views, and validating REST contracts using **Postman**.
 
 <br/>
 
@@ -149,17 +51,43 @@
 
 <br/>
 
-<img src="./assets/section-03-stack.svg" width="100%" alt="03 — TECHNICAL STACK" />
+<img src="./assets/section-techstack.svg" width="100%" alt="03 — TECHNICAL SKILLS" />
 
 <br/><br/>
 
-<img src="./assets/stack.svg" width="100%" alt="Full-Stack Technical Stack Matrix" />
+#### 🛠 Engineering Stack
 
-<br/><br/>
+**Frontend Development**  
+`React` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Redux` · `Zustand`
 
-**Active Focus:** `React Native` (cross-platform mobile) &nbsp;•&nbsp; `Playwright` (end-to-end automation) &nbsp;•&nbsp; `Gemini API` (LLM agents)
+**Backend & APIs**  
+`Python` · `Django REST Framework` · `Node.js` · `Express.js` · `REST APIs`
 
-> Disciplined full-stack engineering with AI-assisted acceleration, verifying every commit with automated tests.
+**Mobile Development**  
+`React Native`
+
+**Databases & Backend Services**  
+`MongoDB` · `PostgreSQL` · `Supabase` · `Firebase`
+
+**API Testing & Debugging**  
+`Postman` · `Bruno` · `Thunder Client`
+
+**Test Automation**  
+`Playwright`
+
+**Cloud & Deployment**  
+`Vercel` · `Render` · `Netlify` · `Railway` · `Cloudflare`
+
+**Development Tools**  
+`Git` · `GitHub` · `TypeScript` · `VS Code`
+
+**AI-Assisted Development**  
+`Cursor` · `Kiro` · `Antigravity` · `Windsurf` · `TRIM` · `Gemini API`
+
+<br/>
+
+#### ⚙️ Engineering Workflow
+<img src="./assets/engineering-lifecycle.svg" width="100%" alt="Engineering Workflow: Build Store Test Automate Deploy AI-Assist" />
 
 <br/>
 
@@ -167,64 +95,35 @@
 
 <br/>
 
-<!-- Tier 3: Compact & Collapsible -->
-<details>
-  <summary><b>📦 More Projects, Education &amp; Background</b></summary>
-  <br/>
+<img src="./assets/section-04-more.svg" width="100%" alt="04 — EDUCATION & LANGUAGES" />
 
-  ### Additional Projects
+<br/><br/>
 
-  #### Dilip Optics Grand · Client Solution
-  Mobile-first retail catalog engineered for an optical showroom in Rajahmundry with automated Sharp WebP image processing and instant WhatsApp appointment inquiry routing.  
-  `React 19` · `Tailwind CSS` · `Sharp`  
-  [**Live Website &rarr;**](https://dilip-opticals-website.vercel.app/) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/dilip-opticals-website)
+**Education**  
+**Bachelor of Commerce (B.Com)**  
+Andhra University — Online Degree  
+Expected graduation: **2029**
 
-  <br/>
-
-  #### ProStackHub CartCraft · MERN E-Commerce
-  Full-featured e-commerce platform with persistent cart state, Stripe checkout, admin RBAC, inventory control, and Cloudinary media pipelines.  
-  `React` · `Node.js` · `MongoDB`  
-  [**Live Demo &rarr;**](https://frontend-silk-two-32.vercel.app/) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/ProStackHub-CartCraft)
-
-  <br/>
-
-  #### ShelfLife Library · Bookshelf Tracker
-  Personal reading progress and bookshelf tracker built with React, Node.js, Express, and MongoDB for categorized reading triage.  
-  `React` · `Node.js` · `Express` · `MongoDB`  
-  [**Live Demo &rarr;**](https://pro-stack-hub-shelf-life-ten.vercel.app) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/ProStackHub_ShelfLife)
-
-  <br/>
-
-  #### Expense Tracker · Financial Dashboard
-  Personal financial dashboard for managing income, expenditures, and monthly spending categories with clean interactive data visualization.  
-  `React` · `JavaScript` · `CSS3`  
-  [**Live Demo &rarr;**](https://expense-tracker-dashboard-beta.vercel.app) &nbsp;|&nbsp; [**Source Code &rarr;**](https://github.com/lokesh-varma28/expense-tracker-dashboard)
-
-  <br/>
-
-  ### Education &amp; Certifications
-
-  #### Bachelor of Commerce (B.Com)
-  **Andhra University** — *Online Degree Program* &nbsp;•&nbsp; Expected Graduation: **2029**  
-  Integrating commercial fundamentals, financial systems, and business workflows with dedicated full-stack software development practice.
-
-  <br/>
-
-  #### AI Fluency for Builders
-  **Anthropic Academy**  
-  Foundations in Large Language Models, prompt architectures, and agentic engineering workflows.
-
-  <br/>
-
-  #### Cisco Networking Academy
-  **Cisco Packet Tracer / Networking**  
-  Core networking fundamentals, IP addressing, routing protocols, and client-server architecture.
-
-</details>
+**Languages**  
+**Telugu · English**
 
 <br/>
 
-<!-- GitHub Contribution Snake Animation -->
+<img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+
+<br/>
+
+<img src="./assets/section-github.svg" width="100%" alt="05 — GITHUB ACTIVITY" />
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&theme=dark&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=080C16" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&theme=dark&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=080C16" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake.svg">
@@ -237,30 +136,24 @@
 
 <br/>
 
-<img src="./assets/section-connect.svg" width="100%" alt="04 — CONNECT" />
+<img src="./assets/section-connect.svg" width="100%" alt="06 — LET'S CONNECT" />
 
 <br/><br/>
 
-> **Open to Full-Stack Software Developer roles, internships, freelance projects, and technical collaborations.**
+> **Open to relevant full-stack opportunities, internships, freelance work, and technical collaborations.**
 
 <br/>
 
 <div align="center">
-
-<p align="center">
-  <a href="https://www.natralokesh.in/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.natralokesh.in/"><img src="./assets/btn-resume.svg" height="46" alt="Resume" /></a>
-  &nbsp;
-  <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/lokesh-varma28"><img src="./assets/btn-github.svg" height="46" alt="GitHub" /></a>
-</p>
-
-<br/>
-
-<img src="./assets/footer-wave.svg" width="100%" alt="Footer Wave" />
-
+  <p align="center">
+    <a href="https://www.natralokesh.in/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
+    &nbsp;
+    <a href="https://github.com/lokesh-varma28"><img src="./assets/btn-github.svg" height="46" alt="GitHub" /></a>
+  </p>
+  <br/>
+  <img src="./assets/footer-wave.svg" width="100%" alt="Footer Wave" />
 </div>
