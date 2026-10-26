@@ -1,31 +1,32 @@
 <div align="center">
-  <!-- Hero: Clean, high-impact visual identity -->
-  <img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Software Developer" />
 
-  <!-- Premium typing animation (optimized duration + fewer lines for faster load) -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=680&lines=Software+Developer;Full-Stack+Engineer;Building+Scalable+Systems;MERN+%26+Django+Specialist" 
-    width="100%" 
-    alt="Software Developer" 
-  />
-</div>
+<!-- ==================== HERO ==================== -->
+<img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Full-Stack Software Developer" />
 
 <br/>
 
-<div align="center">
-  <!-- Action buttons – single row, consistent height for better CLS -->
-  <a href="https://www.natralokesh.in/">
-    <img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/">
-    <img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:lokeshvarmakshatriya@gmail.com">
-    <img src="./assets/btn-email.svg" height="44" alt="Email" />
-  </a>&nbsp;
-  <a href="https://github.com/lokesh-varma28">
-    <img src="./assets/btn-github.svg" height="44" alt="GitHub" />
-  </a>
+<!-- Premium Typing Animation -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Developer;Software+Architect;Building+Scalable+Systems;MERN+%2B+Django+%2B+React+Native" 
+  alt="Full-Stack Software Developer" 
+/>
+
+<br/><br/>
+
+<!-- Action Buttons -->
+<a href="https://www.natralokesh.in/">
+  <img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/">
+  <img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="mailto:lokeshvarmakshatriya@gmail.com">
+  <img src="./assets/btn-email.svg" height="46" alt="Email" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/lokesh-varma28">
+  <img src="./assets/btn-github.svg" height="46" alt="GitHub" />
+</a>
+
 </div>
 
 <br/>
@@ -34,18 +35,22 @@
 
 <br/>
 
-<!-- 01. About -->
+<!-- ==================== ABOUT ==================== -->
 <div align="center">
-  <img src="./assets/section-about.svg" width="100%" alt="01 — ABOUT ME" />
+  <img src="./assets/section-about.svg" width="100%" alt="About Me" />
 </div>
 
 <br/>
 
 <div align="center">
   <p>
-    <b>Software Developer</b> focused on high-performance, scalable web architectures.<br/>
-    Currently <b>Full-Stack Developer Intern at Godavari Wave Technologies</b>.<br/>
-    I design clean systems that turn complex backend logic into fast, intuitive user experiences.
+    <b>Full-Stack Software Developer</b> specializing in high-performance architectures<br/>
+    and clean, scalable systems. Currently driving product development as a<br/>
+    <b>Full-Stack Developer Intern at Godavari Wave Technologies</b>.
+  </p>
+  <p>
+    I bridge complex backend systems with refined frontend experiences —<br/>
+    building modern web & mobile applications, robust REST APIs, and AI-powered solutions.
   </p>
 </div>
 
@@ -55,20 +60,26 @@
 
 <br/>
 
-<!-- 02. Experience -->
+<!-- ==================== EXPERIENCE ==================== -->
 <div align="center">
-  <img src="./assets/section-experience.svg" width="100%" alt="02 — EXPERIENCE" />
+  <img src="./assets/section-experience.svg" width="100%" alt="Experience" />
 </div>
 
 <br/>
+
+<div align="center">
 
 ### Full-Stack Developer Intern  
 **Godavari Wave Technologies** · Rajahmundry, India  
-`Active`
+`● Active`
 
-- **Frontend** — Modular, accessible UIs with **React + Tailwind CSS**. Focus on performance, render optimization, and clean component architecture.
-- **Backend** — Robust APIs with **Node.js / Express**. Secure middleware, rate limiting, and high-throughput REST endpoints.
-- **Data** — Scalable MongoDB schemas + strong API contracts. Full integration testing via Postman / Bruno.
+</div>
+
+<br/>
+
+- **Frontend Architecture** — Engineering modular, accessible interfaces using **React + Tailwind CSS** with strong focus on performance and component design systems.
+- **Backend Systems** — Building secure, high-throughput APIs with **Node.js / Express** and **Django REST Framework**.
+- **Data Layer** — Designing scalable schemas in **MongoDB** & **PostgreSQL** with clean API contracts and rigorous testing.
 
 <br/>
 
@@ -76,59 +87,30 @@
 
 <br/>
 
-<!-- 03. Tech Stack -->
+<!-- ==================== TECH STACK ==================== -->
 <div align="center">
-  <img src="./assets/section-techstack.svg" width="100%" alt="03 — TECH STACK" />
-</div>
-
-<br/>
-
-#### Engineering Stack
-
-| Category          | Technologies |
-| :---------------- | :----------- |
-| **Frontend**      | React · TypeScript · JavaScript · Tailwind CSS · Redux · Zustand · HTML5 · CSS3 |
-| **Backend**       | Node.js · Express · Python · Django REST Framework · REST APIs |
-| **Mobile**        | React Native |
-| **Database**      | MongoDB · PostgreSQL · Supabase · Firebase |
-| **Cloud / DevOps**| Vercel · Render · Netlify · Railway · Cloudflare · Git · GitHub |
-| **Tools**         | Postman · Bruno · Playwright · VS Code · Cursor |
-
-<br/>
-
-#### System Lifecycle
-<div align="center">
-  <img src="./assets/engineering-lifecycle.svg" width="100%" alt="Build → Store → Test → Automate → Deploy → AI-Assist" />
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br/>
-
-<!-- 04. Education & Languages -->
-<div align="center">
-  <img src="./assets/section-04-more.svg" width="100%" alt="04 — EDUCATION & LANGUAGES" />
+  <img src="./assets/section-techstack.svg" width="100%" alt="Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>Education</b><br/>
-        Bachelor of Commerce (B.Com)<br/>
-        Andhra University (Online)<br/>
-        Expected <b>2029</b>
-      </td>
-      <td align="center" width="50%">
-        <b>Languages</b><br/>
-        Telugu · English
-      </td>
-    </tr>
-  </table>
+
+| Category            | Technologies |
+| :------------------ | :----------- |
+| **Frontend**        | React · TypeScript · JavaScript · Tailwind CSS · Redux · Zustand |
+| **Backend**         | Node.js · Express · Python · Django REST Framework · REST APIs |
+| **Mobile**          | React Native |
+| **Database**        | MongoDB · PostgreSQL · Supabase · Firebase |
+| **Cloud & DevOps**  | Vercel · Render · Netlify · Railway · Cloudflare · Git · GitHub |
+| **Tools**           | Postman · Bruno · Playwright · VS Code · Cursor |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/engineering-lifecycle.svg" width="100%" alt="Engineering Lifecycle" />
 </div>
 
 <br/>
@@ -137,24 +119,37 @@
 
 <br/>
 
-<!-- 05. GitHub Activity -->
+<!-- ==================== EDUCATION ==================== -->
 <div align="center">
-  <img src="./assets/section-github.svg" width="100%" alt="05 — GITHUB ACTIVITY" />
+  <img src="./assets/section-04-more.svg" width="100%" alt="Education & Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&theme=dark&title_color=00F0FF&text_color=e0e0e0&icon_color=00F0FF&bg_color=0A0E17&hide_border=true" 
-    height="165" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&theme=dark&title_color=00F0FF&text_color=e0e0e0&bg_color=0A0E17&hide_border=true" 
-    height="165" 
-    alt="Top Languages" 
-  />
+
+| 🎓 Education | 🌐 Languages |
+| :----------: | :----------: |
+| Bachelor of Commerce (B.Com)<br/>Andhra University (Online)<br/>Expected **2029** | Telugu · English |
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+<!-- ==================== GITHUB ==================== -->
+<div align="center">
+  <img src="./assets/section-github.svg" width="100%" alt="GitHub Activity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&theme=dark&title_color=00F0FF&text_color=E2E8F0&icon_color=00F0FF&bg_color=0B0F19&hide_border=true" height="158" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&theme=dark&title_color=00F0FF&text_color=E2E8F0&bg_color=0B0F19&hide_border=true" height="158" alt="Top Languages" />
 </div>
 
 <br/>
@@ -163,11 +158,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake.svg">
-    <img 
-      alt="Contribution snake" 
-      src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" 
-      width="100%" 
-    />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -177,26 +168,31 @@
 
 <br/>
 
-<!-- 06. Connect -->
+<!-- ==================== CONNECT ==================== -->
 <div align="center">
-  <img src="./assets/section-connect.svg" width="100%" alt="06 — LET'S CONNECT" />
+  <img src="./assets/section-connect.svg" width="100%" alt="Let's Connect" />
 </div>
 
 <br/>
 
 <div align="center">
-  <blockquote>
-    <b>Open to full-time Software Developer roles, technical collaborations, and high-impact freelance projects.</b>
-  </blockquote>
+  <p>
+    <b>Open to Full-Stack Developer roles, technical collaborations,<br/>
+    and high-impact freelance projects.</b>
+  </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.natralokesh.in/"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/lokesh-varma28"><img src="./assets/btn-github.svg" height="44" alt="GitHub" /></a>
-  <br/><br/>
+  <a href="https://www.natralokesh.in/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/natra-lokesh-493bb63a2/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:lokeshvarmakshatriya@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/lokesh-varma28"><img src="./assets/btn-github.svg" height="46" alt="GitHub" /></a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="./assets/footer-wave.svg" width="100%" alt="" />
 </div>
