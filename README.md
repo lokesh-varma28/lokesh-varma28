@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<!-- Hero -->
 <img src="./assets/hero.svg" width="100%" alt="Lokesh Varma — Full-Stack Software Developer" />
 
 <br/>
 
-<!-- Premium Typing Animation -->
+<!-- Premium Typing Animation (fully centered + better width) -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Developer;Software+Architect;Building+Scalable+Systems;MERN+%2B+Django+%2B+React+Native" 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=Full-Stack+Software+Developer;Software+Architect;Building+Scalable+Systems;MERN+%2B+Django+%2B+React+Native" 
+  width="100%" 
   alt="Full-Stack Software Developer" 
 />
 
@@ -35,22 +36,21 @@
 
 <br/>
 
-<!-- ==================== ABOUT ==================== -->
 <div align="center">
-  <img src="./assets/section-about.svg" width="100%" alt="About Me" />
+  <img src="./assets/section-about.svg" width="100%" alt="About" />
 </div>
 
 <br/>
 
 <div align="center">
   <p>
-    <b>Full-Stack Software Developer</b> specializing in high-performance architectures<br/>
-    and clean, scalable systems. Currently driving product development as a<br/>
+    <b>Full-Stack Software Developer</b> focused on high-performance architectures<br/>
+    and clean scalable systems. Currently building products as a<br/>
     <b>Full-Stack Developer Intern at Godavari Wave Technologies</b>.
   </p>
   <p>
-    I bridge complex backend systems with refined frontend experiences —<br/>
-    building modern web & mobile applications, robust REST APIs, and AI-powered solutions.
+    Bridging complex backend systems with refined frontend experiences —<br/>
+    modern web & mobile apps, robust REST APIs, and AI-powered software.
   </p>
 </div>
 
@@ -60,7 +60,6 @@
 
 <br/>
 
-<!-- ==================== EXPERIENCE ==================== -->
 <div align="center">
   <img src="./assets/section-experience.svg" width="100%" alt="Experience" />
 </div>
@@ -77,9 +76,9 @@
 
 <br/>
 
-- **Frontend Architecture** — Engineering modular, accessible interfaces using **React + Tailwind CSS** with strong focus on performance and component design systems.
-- **Backend Systems** — Building secure, high-throughput APIs with **Node.js / Express** and **Django REST Framework**.
-- **Data Layer** — Designing scalable schemas in **MongoDB** & **PostgreSQL** with clean API contracts and rigorous testing.
+- **Frontend Architecture** — Modular, accessible interfaces with **React + Tailwind CSS**. Strong focus on performance and design systems.
+- **Backend Systems** — Secure high-throughput APIs using **Node.js / Express** and **Django REST Framework**.
+- **Data Layer** — Scalable schemas in **MongoDB** & **PostgreSQL** with clean contracts and thorough testing.
 
 <br/>
 
@@ -87,7 +86,6 @@
 
 <br/>
 
-<!-- ==================== TECH STACK ==================== -->
 <div align="center">
   <img src="./assets/section-techstack.svg" width="100%" alt="Tech Stack" />
 </div>
@@ -96,14 +94,14 @@
 
 <div align="center">
 
-| Category            | Technologies |
-| :------------------ | :----------- |
-| **Frontend**        | React · TypeScript · JavaScript · Tailwind CSS · Redux · Zustand |
-| **Backend**         | Node.js · Express · Python · Django REST Framework · REST APIs |
-| **Mobile**          | React Native |
-| **Database**        | MongoDB · PostgreSQL · Supabase · Firebase |
-| **Cloud & DevOps**  | Vercel · Render · Netlify · Railway · Cloudflare · Git · GitHub |
-| **Tools**           | Postman · Bruno · Playwright · VS Code · Cursor |
+| Category           | Technologies |
+|:-------------------|:-------------|
+| **Frontend**       | React · TypeScript · JavaScript · Tailwind CSS · Redux · Zustand |
+| **Backend**        | Node.js · Express · Python · Django REST Framework · REST APIs |
+| **Mobile**         | React Native |
+| **Database**       | MongoDB · PostgreSQL · Supabase · Firebase |
+| **Cloud & DevOps** | Vercel · Render · Netlify · Railway · Cloudflare · Git · GitHub |
+| **Tools**          | Postman · Bruno · Playwright · VS Code · Cursor |
 
 </div>
 
@@ -119,17 +117,16 @@
 
 <br/>
 
-<!-- ==================== EDUCATION ==================== -->
 <div align="center">
-  <img src="./assets/section-04-more.svg" width="100%" alt="Education & Languages" />
+  <img src="./assets/section-04-more.svg" width="100%" alt="Education" />
 </div>
 
 <br/>
 
 <div align="center">
 
-| 🎓 Education | 🌐 Languages |
-| :----------: | :----------: |
+| Education | Languages |
+|:---------:|:---------:|
 | Bachelor of Commerce (B.Com)<br/>Andhra University (Online)<br/>Expected **2029** | Telugu · English |
 
 </div>
@@ -140,16 +137,15 @@
 
 <br/>
 
-<!-- ==================== GITHUB ==================== -->
 <div align="center">
-  <img src="./assets/section-github.svg" width="100%" alt="GitHub Activity" />
+  <img src="./assets/section-github.svg" width="100%" alt="GitHub" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&theme=dark&title_color=00F0FF&text_color=E2E8F0&icon_color=00F0FF&bg_color=0B0F19&hide_border=true" height="158" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&theme=dark&title_color=00F0FF&text_color=E2E8F0&bg_color=0B0F19&hide_border=true" height="158" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh-varma28&show_icons=true&theme=dark&title_color=00F0FF&text_color=E2E8F0&icon_color=00F0FF&bg_color=0B0F19&hide_border=true" height="158" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-varma28&layout=compact&theme=dark&title_color=00F0FF&text_color=E2E8F0&bg_color=0B0F19&hide_border=true" height="158" alt="Languages" />
 </div>
 
 <br/>
@@ -158,7 +154,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" width="100%" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lokesh-varma28/lokesh-varma28/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -168,9 +164,8 @@
 
 <br/>
 
-<!-- ==================== CONNECT ==================== -->
 <div align="center">
-  <img src="./assets/section-connect.svg" width="100%" alt="Let's Connect" />
+  <img src="./assets/section-connect.svg" width="100%" alt="Connect" />
 </div>
 
 <br/>
