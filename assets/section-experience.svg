@@ -1,29 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 38" width="380" height="38" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 48" width="100%" fill="none">
   <defs>
-    <linearGradient id="gold-bar" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F5D061" />
-      <stop offset="100%" stop-color="#D4AF37" />
+    <linearGradient id="sec-base-exp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#162036" stop-opacity="0" />
+      <stop offset="30%" stop-color="#1E2A47" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#28385E" stop-opacity="1" />
+      <stop offset="70%" stop-color="#1E2A47" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#162036" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="sec-accent-exp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#38BDF8" />
     </linearGradient>
   </defs>
+
   <style>
     .header-text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
-      font-size: 19px;
-      font-weight: 800;
-      letter-spacing: 2px;
     }
   </style>
 
-  <!-- Left Indicator Bar in Champagne Gold -->
-  <rect x="0" y="4" width="4" height="22" rx="2" fill="url(#gold-bar)" />
-
-  <!-- Section Title -->
-  <text x="14" y="22" class="header-text">
-    <tspan fill="#E5C07B">02 — </tspan>
-    <tspan fill="#F8FAFC">EXPERIENCE</tspan>
+  <!-- Centered Section Title -->
+  <text x="425" y="25" text-anchor="middle" class="header-text">
+    <tspan fill="#00F0FF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.5">02 // </tspan>
+    <tspan fill="#F8FAFC" font-size="17" font-weight="800" letter-spacing="2">EXPERIENCE</tspan>
   </text>
 
-  <!-- Subtle Underline Track -->
-  <rect x="0" y="34" width="340" height="2" rx="1" fill="#1A2338" />
-  <rect x="0" y="34" width="60" height="2" rx="1" fill="#E5C07B" opacity="0.8" />
+  <!-- Horizontal Hairline Base Line -->
+  <line x1="120" y1="41" x2="730" y2="41" stroke="url(#sec-base-exp)" stroke-width="1.2" />
+
+  <!-- Center Active Accent Pip & Bar -->
+  <rect x="395" y="40" width="60" height="2" rx="1" fill="url(#sec-accent-exp)" />
+  <circle cx="425" cy="41" r="2.5" fill="#00F0FF" />
 </svg>

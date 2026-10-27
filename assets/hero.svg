@@ -1,30 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 270" width="100%" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="100%" fill="none">
   <defs>
-    <!-- Background Gradient: Deep Obsidian -->
+    <!-- Background Gradient: Deep Obsidian Midnight Navy -->
     <linearGradient id="hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080C16" />
-      <stop offset="60%" stop-color="#0B1124" />
-      <stop offset="100%" stop-color="#050811" />
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="50%" stop-color="#0B1224" />
+      <stop offset="100%" stop-color="#04060D" />
     </linearGradient>
 
-    <!-- Champagne Gold Accent Gradient -->
-    <linearGradient id="hero-gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F5D061" />
-      <stop offset="50%" stop-color="#E5C07B" />
-      <stop offset="100%" stop-color="#D4AF37" />
+    <!-- Role Gradient: Electric Cyan to Soft Sky Cyan -->
+    <linearGradient id="role-cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#00F0FF" />
     </linearGradient>
 
-    <!-- Top Highlight Subtle Animated Shimmer -->
+    <!-- Ambient Center Cyan Glow -->
+    <radialGradient id="center-glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.09" />
+      <stop offset="55%" stop-color="#00F0FF" stop-opacity="0.02" />
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Top Shimmer Animation -->
     <linearGradient id="top-shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E5C07B" stop-opacity="0" />
-      <stop offset="50%" stop-color="#F5D061" stop-opacity="0.45">
-        <animate attributeName="stop-opacity" values="0.2;0.65;0.2" dur="4s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.75">
+        <animate attributeName="stop-opacity" values="0.3;0.85;0.3" dur="4s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#E5C07B" stop-opacity="0" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
     </linearGradient>
+
+    <!-- Technical Architectural Grid -->
+    <pattern id="tech-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="rgba(56, 189, 248, 0.03)" stroke-width="0.8" />
+      <circle cx="28" cy="28" r="0.6" fill="rgba(56, 189, 248, 0.08)" />
+    </pattern>
 
     <clipPath id="hero-clip">
-      <rect width="640" height="270" rx="16" />
+      <rect width="850" height="300" rx="16" />
     </clipPath>
   </defs>
 
@@ -36,7 +49,7 @@
       font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
     }
     @media (prefers-reduced-motion: no-preference) {
-      .hero-text-reveal {
+      .hero-reveal {
         animation: textReveal 0.8s ease-out forwards;
       }
       .beacon-ring {
@@ -49,46 +62,71 @@
     }
     @keyframes pulseRing {
       0% { r: 4.5px; opacity: 0.9; }
-      70% { r: 11px; opacity: 0; }
-      100% { r: 11px; opacity: 0; }
+      70% { r: 12px; opacity: 0; }
+      100% { r: 12px; opacity: 0; }
     }
   </style>
 
-  <!-- Opaque Rounded Dark Plate -->
+  <!-- Opaque Rounded Plate -->
   <g clip-path="url(#hero-clip)">
-    <rect width="640" height="270" rx="16" fill="url(#hero-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" />
+    <!-- Deep Obsidian Base Background -->
+    <rect width="850" height="300" rx="16" fill="url(#hero-bg)" />
 
-    <!-- Subtle Top Edge Animated Highlight -->
-    <line x1="16" y1="1" x2="624" y2="1" stroke="url(#top-shimmer)" stroke-width="1.2" />
+    <!-- Architectural Grid Pattern -->
+    <rect width="850" height="300" fill="url(#tech-grid)" />
 
-    <g class="hero-text-reveal">
-      <!-- 0. Engineering Profile Eyebrow Pill -->
-      <rect x="32" y="22" width="232" height="24" rx="12" fill="#0C1324" stroke="rgba(229,192,123,0.3)" stroke-width="1" />
-      <circle cx="44" cy="34" r="3.5" fill="#E5C07B" />
-      <text x="56" y="38" class="font-mono" font-size="11.5" font-weight="700" fill="#E5C07B" letter-spacing="1.2">SOFTWARE ARCHITECTURE</text>
+    <!-- Ambient Center Light Cone -->
+    <ellipse cx="425" cy="115" rx="320" ry="140" fill="url(#center-glow)" />
 
-      <!-- 1. Name -->
-      <text x="32" y="88" class="font-sans" font-size="44" font-weight="900" fill="#F8FAFC" letter-spacing="0.5">LOKESH VARMA</text>
+    <!-- Inner Subtle Border Frame -->
+    <rect x="1" y="1" width="848" height="298" rx="15" fill="none" stroke="rgba(255, 255, 255, 0.07)" stroke-width="1.2" />
 
-      <!-- 2. Primary Identity -->
-      <text x="32" y="126" class="font-sans" font-size="24" font-weight="800" fill="url(#hero-gold)" letter-spacing="1">FULL-STACK SOFTWARE DEVELOPER</text>
+    <!-- Top Edge Cyan Shimmer Line -->
+    <line x1="24" y1="1" x2="826" y2="1" stroke="url(#top-shimmer)" stroke-width="1.5" />
+
+    <!-- Symmetrical Corner Architectural Accents -->
+    <path d="M 24 34 L 24 24 L 34 24" fill="none" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1" />
+    <path d="M 826 34 L 826 24 L 816 24" fill="none" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1" />
+    <path d="M 24 266 L 24 276 L 34 276" fill="none" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1" />
+    <path d="M 826 266 L 826 276 L 816 276" fill="none" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1" />
+
+    <!-- Hero Content Group (Centered on x = 425) -->
+    <g class="hero-reveal">
+      <!-- 0. Engineering Profile Eyebrow Pill (218px wide, centered at x=425) -->
+      <g transform="translate(316, 22)">
+        <rect width="218" height="26" rx="13" fill="#0A1020" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1" />
+        <circle cx="20" cy="13" r="3.5" fill="#00F0FF" />
+        <text x="34" y="17" class="font-mono" font-size="11" font-weight="700" fill="#00F0FF" letter-spacing="1.2">SOFTWARE ARCHITECTURE</text>
+      </g>
+
+      <!-- 1. Brand Name (Strongest visual element) -->
+      <text x="425" y="98" text-anchor="middle" class="font-sans" font-size="46" font-weight="900" fill="#FFFFFF" letter-spacing="2.5">LOKESH VARMA</text>
+
+      <!-- 2. Primary Role -->
+      <text x="425" y="136" text-anchor="middle" class="font-sans" font-size="20" font-weight="800" fill="url(#role-cyan-grad)" letter-spacing="1.8">FULL-STACK SOFTWARE DEVELOPER</text>
 
       <!-- 3. Core Positioning Tags -->
-      <text x="32" y="160" class="font-mono" font-size="16" font-weight="600" fill="#94A3B8">MERN <tspan fill="#E5C07B">·</tspan> PYTHON <tspan fill="#E5C07B">·</tspan> DJANGO REST <tspan fill="#E5C07B">·</tspan> REACT NATIVE</text>
+      <text x="425" y="172" text-anchor="middle" class="font-mono" font-size="14.5" font-weight="600" fill="#94A3B8" letter-spacing="1.2">
+        REACT <tspan fill="#00F0FF">·</tspan> PYTHON <tspan fill="#00F0FF">·</tspan> DJANGO REST <tspan fill="#00F0FF">·</tspan> NODE.JS <tspan fill="#00F0FF">·</tspan> REACT NATIVE
+      </text>
 
-      <!-- 4. Supporting Tagline -->
-      <text x="32" y="188" class="font-sans" font-size="15" font-weight="400" fill="#64748B">Building modern web and mobile applications, REST APIs, and AI-powered software.</text>
+      <!-- 4. Supporting Description -->
+      <text x="425" y="202" text-anchor="middle" class="font-sans" font-size="14" font-weight="400" fill="#64748B" letter-spacing="0.2">
+        Building modern web &amp; mobile applications, REST APIs, and scalable AI-powered systems.
+      </text>
 
-      <!-- 5. Status Indicator Pill with Pulsing Beacon -->
-      <g transform="translate(32, 212)">
-        <rect width="576" height="38" rx="19" fill="#0C1324" stroke="rgba(16,185,129,0.35)" stroke-width="1.2" />
+      <!-- 5. Status Indicator Pill with Pulsing Live Beacon (560px wide, centered at x=425) -->
+      <g transform="translate(145, 230)">
+        <rect width="560" height="38" rx="19" fill="#0A1020" stroke="rgba(16, 185, 129, 0.35)" stroke-width="1.2" />
         <!-- Pulsing Live Beacon -->
-        <circle cx="20" cy="19" r="4.5" fill="#10B981" />
-        <circle cx="20" cy="19" r="4.5" fill="#10B981" opacity="0.7" class="beacon-ring">
-          <animate attributeName="r" values="4.5;11;11" dur="2.4s" repeatCount="indefinite" />
+        <circle cx="24" cy="19" r="4.5" fill="#10B981" />
+        <circle cx="24" cy="19" r="4.5" fill="#10B981" opacity="0.75" class="beacon-ring">
+          <animate attributeName="r" values="4.5;12;12" dur="2.4s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="0.8;0;0" dur="2.4s" repeatCount="indefinite" />
         </circle>
-        <text x="36" y="24" class="font-sans" font-size="14" font-weight="600" fill="#E6EDF3">Open to Roles <tspan fill="#64748B">·</tspan> Full-Stack Intern @ Godavari Wave Tech</text>
+        <text x="294" y="24" text-anchor="middle" class="font-sans" font-size="13" font-weight="600" fill="#E2E8F0" letter-spacing="0.3">
+          Open to Roles <tspan fill="#64748B">·</tspan> Full-Stack Developer Intern @ Godavari Wave Technologies
+        </text>
       </g>
     </g>
   </g>
